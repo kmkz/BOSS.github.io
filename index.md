@@ -19,7 +19,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
     <h3 style="color: #f1f1f1;">Our Mission</h3>
     <p style="line-height: 1.8; font-size: 1.1em;">We propose a comprehensive, realistic and actionnable cybersecurity services tailored to each client's needs. 
       <br>Whether you're a small business, a government agency or a large enterprise, our services are designed to address your specific security challenges with cost-effective and scalable solutions.
-      <br><br><strong> Human if often presented as aweakness and an attack vector, well, it is true but because it is the key, we believe in the human and skills, and you ?</strong></p>
+      <br><br><strong> Human if often presented as aweakness and an attack vector, well, it might be true and because it is the key, we believe in the human and skills, and you ?</strong></p>
   </div>
 
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
@@ -107,11 +107,13 @@ title: "Bourbon Offensive Security Services (BOSS)"
 9 rue des Prés,  
 L-9907 TROISVIERGES,  
 Luxembourg
+
+<a href="(+352) 661 523 211"></a>
 </p>
 
 <h3 style="text-align: center;">Email</h3>
 <p style="text-align: center;">
-<a href="mailto:contact@boffsec.com">contact@boffsec.com</a> 
+<a href="mailto:contact@boffsec.com">contact@boffsec.com</a>
 <br><a href="https://www.linkedin.com/in/jean-marie-bourbon/">LinkedIn</a> | <a href="https://x.com/kmkz_security">Twitter</a>
 </p>
 
