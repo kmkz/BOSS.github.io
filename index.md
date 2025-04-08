@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Welcome to Bourbon Offensive Security Services (BOSS)"
+title: "Bourbon Offensive Security Services (BOSS)"
 ---
 
-# Bourbon Offensive Security Services (BOSS)
+# Bourbon Offensive Security Services (B.O.S.S)
 
 ---
 
@@ -36,46 +36,46 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
 
 ---
 
-<div style="border: 1px solid #333; padding: 20px; margin-bottom: 20px; background-color: #1c1c1c; color: #fff;">
+<div style="border: 1px solid #333; padding: 20px; margin-bottom: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
   <h3 style="color: #f1f1f1;">Consulting Services</h3>
-  <ul style="line-height: 1.8;">
-    <li>Implementation and management of cybersecurity projects.</li>
-    <li>Assistance with risk prioritization and remediation follow-up.</li>
-    <li>Audit and review of architecture and technical components (e.g., Data Architecture Review).</li>
-    <li>Support on risks related to the <strong>supply chain</strong>.</li>
-    <li>Awareness training and education for technical teams and decision-makers.</li>
-    <li>Strategic consulting on cybersecurity topics (e.g., defining cybersecurity policies (PSSI), <strong>NIS2</strong> implementation, gap analysis, etc.).</li>
-  </ul>
+  <p style="line-height: 1.8;">
+    - Implementation and management of cybersecurity projects.<br>
+    - Assistance with risk prioritization and remediation follow-up.<br>
+    - Audit and review of architecture and technical components (e.g., Data Architecture Review).<br>
+    - Support on risks related to the <strong>supply chain</strong>.<br>
+    - Awareness training and education for technical teams and decision-makers.<br>
+    - Strategic consulting on cybersecurity topics (e.g., defining cybersecurity policies (PSSI), <strong>NIS2</strong> implementation, gap analysis, etc.).
+  </p>
 </div>
 
-<div style="border: 1px solid #333; padding: 20px; margin-bottom: 20px; background-color: #1c1c1c; color: #fff;">
+<div style="border: 1px solid #333; padding: 20px; margin-bottom: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
   <h3 style="color: #f1f1f1;">Offensive Security</h3>
-  <ul style="line-height: 1.8;">
-    <li>Attack simulations (<strong>assume breach</strong> and <strong>adversary simulation</strong>), penetration testing (external, internal, web, physical, etc.).</li>
-    <li>Vulnerability research on sensitive products.</li>
-    <li><strong>Patch validation</strong> and security audits.</li>
-    <li><strong>Red teaming</strong> exercises (<strong>TIBER</strong>/<strong>TLPT</strong> for DORA compliance).</li>
-    <li><strong>Offensive security-focused</strong> architecture reviews.</li>
-  </ul>
+  <p style="line-height: 1.8;">
+    - Attack simulations (<strong>assume breach</strong> and <strong>adversary simulation</strong>), penetration testing (external, internal, web, physical, etc.).<br>
+    - Vulnerability research on sensitive products.<br>
+    - <strong>Patch validation</strong> and security audits.<br>
+    - <strong>Red teaming</strong> exercises (<strong>TIBER</strong>/<strong>TLPT</strong> for DORA compliance).<br>
+    - <strong>Offensive security-focused</strong> architecture reviews.
+  </p>
 </div>
 
-<div style="border: 1px solid #333; padding: 20px; margin-bottom: 20px; background-color: #1c1c1c; color: #fff;">
+<div style="border: 1px solid #333; padding: 20px; margin-bottom: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
   <h3 style="color: #f1f1f1;">Defensive Security</h3>
-  <ul style="line-height: 1.8;">
-    <li>Audits and cybersecurity awareness training.</li>
-    <li>Support for applying remediation after offensive security tests.</li>
-    <li>Contribution, organization, and management of <strong>purple teaming</strong>.</li>
-    <li>Proactive <strong>threat intelligence</strong> (continuous monitoring).</li>
-    <li>Incident response support.</li>
-  </ul>
+  <p style="line-height: 1.8;">
+    - Audits and cybersecurity awareness training.<br>
+    - Support for applying remediation after offensive security tests.<br>
+    - Contribution, organization, and management of <strong>purple teaming</strong>.<br>
+    - Proactive <strong>threat intelligence</strong> (continuous monitoring).<br>
+    - Incident response support.
+  </p>
 </div>
 
-<div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff;">
+<div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
   <h3 style="color: #f1f1f1;">Long-Term Projects</h3>
-  <ul style="line-height: 1.8;">
-    <li>Long-term support for project management or continuous <strong>threat intelligence</strong>.</li>
-    <li>Tailored approach adapted to the specific needs of clients.</li>
-  </ul>
+  <p style="line-height: 1.8;">
+    - Long-term support for project management or continuous <strong>threat intelligence</strong>.<br>
+    - Tailored approach adapted to the specific needs of clients.
+  </p>
 </div>
 
 
