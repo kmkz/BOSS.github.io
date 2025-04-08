@@ -53,7 +53,7 @@ With years of field experience and strategic partnerships across Europe, we prov
 
 ## **Contact Us**
 
-Have questions? Get in touch with us to learn how we can help protect your business.
+Have questions? Get in touch with us to learn how we can help defend your business in an efficient way !
 
 ### **Office Location:**
 9 rue des Prés,  
@@ -69,8 +69,8 @@ Luxembourg
 
 Stay updated with the latest cybersecurity insights, trends, and news. Follow us on social media:
 
-- [LinkedIn](#)
-- [Twitter](#)
+- [LinkedIn](#https://www.linkedin.com/in/jean-marie-bourbon/)
+- [Twitter](#https://x.com/kmkz_security)
 
 ---
 
