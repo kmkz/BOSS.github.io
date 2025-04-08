@@ -1,80 +1,82 @@
 ---
 layout: default
+title: "Welcome to Bourbon Offensive Security Services (BOSS)"
 ---
 
 # Bourbon Offensive Security Services (BOSS)
 
-## 1. Executive Summary  
-**BOSS** is a cybersecurity company dedicated to providing **offensive and defensive security consulting, support, and services** to businesses, government agencies, and SMEs.
+---
 
-With a combination of **technical expertise**, **pragmatism**, and a **strategic approach** adaptable even for small operations (low operational costs allow for greater flexibility), I help enhance the security posture of organizations against current threats and increasingly stringent regulations.
+## **Welcome to BOSS**
 
-Backed by significant, **hands-on experience** and **trusted partnerships**, I offer a truly innovative and realistic view of risks, with a tailored, field-oriented, and above all, human approach.
+At **BOSS**, we specialize in **Offensive and Defensive Security** consulting services. We combine deep technical expertise, a pragmatic approach, and a strategic mindset to help businesses, administrations, and SMEs strengthen their security posture in an ever-evolving threat landscape.
 
 ---
 
-## 2. Company Overview  
-- **Sector:** Cybersecurity services  
-- **Legal Structure:** SARL-S  
-- **Location:** Hybrid activity (physical and online) with an international dimension.  
-  Registered in Luxembourg.  
-- **Target Audience:** Businesses, government agencies, and SMEs.  
-- **Trusted Partners:** Exclusively based in Europe.
+## **What We Do**
 
-### Objectives:  
-To develop a comprehensive cybersecurity offering, leveraging an offensive mindset to anticipate risks around three major axes:
+### **Our Mission**
+We offer comprehensive cybersecurity services tailored to each client's needs. Whether you're a small business, a government agency, or a large enterprise, our services are designed to address your specific security challenges with cost-effective and scalable solutions.
 
-1. **Offensive Security:** A mindset and state of mind.  
-2. **Defensive Security:** The goal to achieve.  
-3. **Consulting and Support (short and long term):** Bringing experience and formalizing it to be effective.
+### **Our Expertise**
+With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity. Our services cover a wide range of areas including vulnerability assessments, threat intelligence, red teaming, and security architecture reviews.
 
 ---
 
-## 3. Service Offering  
+## **Services**
 
-### Consulting Services  
-- **Implementation and project follow-up** in cybersecurity.  
-- **Risk prioritization** and remediation tracking.  
-- **Audit and review** of technical architecture and components (e.g., DAT review).  
-- **Risk management** regarding **supply-chain** threats.  
-- **Awareness and training** for technical teams and decision-makers.  
-- **Strategic support** on various cybersecurity topics (e.g., defining PSSI, implementing **NIS2**, gap analysis, etc.).
+### **Offensive Security**
+- **Penetration Testing:** External, internal, web, physical tests to identify vulnerabilities.
+- **Adversary Simulation:** Simulating advanced attackers to understand potential threats.
+- **Red-Teaming & TIBER:** Real-world cyber attack simulations to test defenses.
 
-### Offensive Security  
-- **Attack simulations** (**assume breach** and **adversary simulation**), penetration testing (external, internal, web, physical, etc.).  
-- **Vulnerability research** on sensitive products.  
-- **Patch validation** and security audits.  
-- **Red-teaming exercises** (**TIBER**)/**TLPT** (**DORA compliance**).  
-- **Architecture review** based on an offensive approach.
+### **Defensive Security**
+- **Security Audits:** In-depth analysis of your security systems and protocols.
+- **Post-Test Remediation:** Help implement fixes based on penetration testing results.
+- **Proactive Threat Intelligence:** Continuous monitoring for emerging threats.
 
-### Defensive Security  
-- **Cybersecurity audits**, awareness programs.  
-- **Post-offensive test remediation** support.  
-- **Purple teaming** contributions, organization, and follow-up.  
-- **Proactive threat intelligence** (continuous monitoring).  
-- **Incident response support**.
-
-### Long-Term Projects  
-- Ongoing support for project management or continuous **threat intelligence**.  
-- **Tailored approaches** adapted to the specific needs of clients.
+### **Consulting & Strategic Guidance**
+- **Cybersecurity Strategy:** Tailored strategies for aligning your security posture with business goals.
+- **Regulatory Compliance:** Assistance with NIS2, GDPR, and other cybersecurity regulations.
+- **Risk Management:** Identifying and managing risks across your organization.
 
 ---
 
-## 4. Contact Information  
+## **Why Choose Us?**
 
-For inquiries or to schedule a consultation, please reach out using the following contact information:
-
-- **Email:** [contact@boffsec.com](mailto:contact@boffsec.com)  
-- **Phone:** +352 123 456 789  
-- **Website:** [www.boffsec.com](http://www.boffsec.com)  
-
-### Office Location:  
-**Bourbon Offensive Security Services (BOSS)**  
-9 Rue des PrÃ©s,  
-L-9907 Troisvierges, Luxembourg
-
-You can also reach out via social media or fill out our contact form on the website for more details.
+- **Proven Expertise:** Over 15 years of experience in offensive security and defensive operations.
+- **Tailored Solutions:** We adapt our services to fit the unique needs of each client.
+- **European Partnerships:** Trusted partnerships with leading experts across Europe.
+- **Strategic Insights:** We help you not just respond to threats, but anticipate them.
 
 ---
 
-Feel free to contact us to discuss how we can help you improve your cybersecurity posture and mitigate risks.
+## **Contact Us**
+
+Have questions? Get in touch with us to learn how we can help protect your business.
+
+### **Office Location:**
+9 rue des Prés,  
+L-9907 TROISVIERGES,  
+Luxembourg  
+
+### **Email:**
+[contact@boffsec.com](mailto:contact@boffsec.com)
+
+---
+
+## **Follow Us**
+
+Stay updated with the latest cybersecurity insights, trends, and news. Follow us on social media:
+
+- [LinkedIn](#)
+- [Twitter](#)
+
+---
+
+### **Get Started Today!**
+At **BOSS**, we are committed to helping you safeguard your digital assets. Reach out to us today and take the first step toward securing your business.
+
+---
+
+**© 2025 Bourbon Offensive Security Services (BOSS)**
