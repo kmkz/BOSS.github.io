@@ -1,11 +1,13 @@
 # General site settings
 title: "Bourbon Offensive Security Services (BOSS)"
-description: "Specialized in offensive and defensive cybersecurity consulting and services."
+description: "Specialized in offensive and defensive cybersecurity consulting and services"
 url: "https://web.boffsec.com" # Change to your actual domain URL
 baseurl: "/" # This is often "/" unless you're deploying to a subdirectory
 
 # Theme configuration
 theme: jekyll-theme-cayman
+
+encoding: "utf-8"
 
 # Build settings
 markdown: kramdown
