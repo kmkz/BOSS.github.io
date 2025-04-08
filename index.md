@@ -107,7 +107,7 @@ We help you not just respond to threats, but anticipate them.
 <p >Have questions? Get in touch with us to learn how we can help defend your business in an efficient way!</p>
 
 ### **Office Location:**
-9 rue des PrÃÂ©s,  
+9 rue des Pres,  
 L-9907 TROISVIERGES,  
 Luxembourg
 
