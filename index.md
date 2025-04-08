@@ -80,7 +80,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
 
 <ul style="color: #f1f1f1; font-size: 1.1em;">
   <li><strong>Proven Expertise</strong><br>
-  Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications (<strong>OSCP/OSCE certified</strong>).</li>
+  Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications (<strong>OSCP/OSCE certified</strong>) as well as many publications.</li>
   <br>
   <li><strong>Tailored Solutions</strong><br>
   Client-oriented (for real), we adapt our services to fit the unique needs of each client.</li>
