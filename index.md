@@ -26,9 +26,9 @@ With years of field experience and strategic partnerships across Europe, we prov
 
 Our goal is to develop a comprehensive cybersecurity approach by capitalizing on an offensive mindset to proactively address risks across three major pillars:
 
-**1. Offensive Security:** Adopting a proactive mindset for identifying and exploiting vulnerabilities.  
-**2. Defensive Security:** Establishing the desired state for protecting systems and data.  
-**3. Short- and Long-Term Consulting & Support:** Leveraging experience and knowledge to create effective and actionable solutions.
+**1. Offensive Security:** A mindset.
+**2. Defensive Security:** The goal to achieve. 
+**3. Short- and Long-Term Consulting & Support:** Bringing experience and formalizing it to be effective.
 
 ---
 
@@ -36,35 +36,35 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
 
 ---
 
-### Cybersecurity Consulting
-- **Project Management:** Implementation and oversight of cybersecurity projects.
-- **Risk Prioritization & Remediation:** Assisting with risk identification and prioritization of remediation actions.
-- **Architecture & Technical Component Audits:** Conducting audits, such as Data Architecture review (DAT) using a novel "from the battlefield" approach.
-- **Supply Chain Risk Management:** Mitigating risks related to third-party suppliers and partners.
-- **Training & Awareness:** Providing training for technical teams and decision-makers to raise awareness of security risks.
-- **Strategic Consulting:** Offering guidance on topics such as cybersecurity policies, **NIS2** implementation, gap analysis, and more.
+### Consulting Services
+- Implementation and management of cybersecurity projects.  
+- Assistance with risk prioritization and remediation follow-up.  
+- Audit and review of architecture and technical components (e.g., Data Architecture Review).  
+- Support on risks related to the **supply chain**.  
+- Awareness training and education for technical teams and decision-makers.  
+- Strategic consulting on cybersecurity topics (e.g., defining cybersecurity policies (PSSI), **NIS2** implementation, gap analysis, etc.).  
 
 ### Offensive Security
-- **Attack Simulations:** Conducting **assume breach** and **adversary simulation** exercises, as well as penetration testing (external, internal, web, physical).
-- **Vulnerability Research:** Identifying vulnerabilities in sensitive products and systems.
-- **Patch Validation & Security Audits:** Reviewing security controls and validating patches.
-- **Red Teaming Exercises:** Conducting / supporting in **TIBER** oriented and **TLPT** exercises (in compliance with DORA).
-- **Offensive Architecture Reviews:** Reviewing system architectures with an offensive security mindset.
+- Attack simulations ( **assume breach** and **adversary simulation**), penetration testing (external, internal, web, physical, etc.).  
+- Vulnerability research on sensitive products.  
+- **Patch validation** and security audits.  
+- **Red teaming** exercises (**TIBER**/ **TLPT** for DORA compliance).  
+- **Offensive security-focused** architecture reviews.  
 
 ### Defensive Security
-- **Security Audits & Awareness Training:** Assessing security weaknesses and raising awareness.
-- **Post-Testing Remediation Support:** Helping organizations apply remediation following offensive testing.
-- **Purple Teaming:** Organizing and facilitating **purple teaming** exercises to enhance collaboration between offensive and defensive teams.
-- **Proactive Threat Intelligence:** Continuous monitoring and analysis to detect potential threats.
-- **Incident Response Support:** Offering expert guidance and support during a security breach.
+- Audits and cybersecurity awareness training.  
+- Support for applying remediation after offensive security tests.  
+- Contribution, organization, and management of **purple teaming**.  
+- Proactive **threat intelligence** (continuous monitoring).  
+- Incident response support.  
 
 ### Long-Term Projects
-- **Ongoing Threat Intelligence:** Providing continuous support for threat intelligence and monitoring over time.
-- **Tailored Solutions:** Developing custom strategies to meet the unique needs of each client.
+- Long-term support for project management or continuous **threat intelligence**.  
+- Tailored approach adapted to the specific needs of clients.
 
 ---
 
-## **Why Choose Us?**
+## **Why Choose Us ?**
 
 - **Proven Expertise:** Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized  expertise and high-level professional certifications ( **OSCP/OSCE certified** ).
 - **Tailored Solutions:** Client oriented (for real), we adapt our services to fit the unique needs of each client.
@@ -100,5 +100,3 @@ Stay updated with the latest cybersecurity insights, trends, and news. Follow us
 At **BOSS**, we are committed to helping you safeguard your digital assets. Reach out to us today and take the first step toward securing your business.
 
 ---
-
-***Offense 4 defense***
