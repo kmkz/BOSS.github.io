@@ -16,17 +16,25 @@ We combine deep technical expertise, a pragmatic approach, and a strategic minds
 
 ## **What We Do**
 
-### **Our Mission**
-We offer comprehensive cybersecurity services tailored to each client's needs. Whether you're a small business, a government agency, or a large enterprise, our services are designed to address your specific security challenges with cost-effective and scalable solutions.
+<div class="info-box">
+    <h3>Our Mission</h3>
+    <p>We offer comprehensive cybersecurity services tailored to each client's needs. Whether you're a small business, a government agency, or a large enterprise, our services are designed to address your specific security challenges with cost-effective and scalable solutions.</p>
+</div>
 
-### **Our Expertise**
-With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity. Our services cover a wide range of areas including vulnerability assessments, threat intelligence, red teaming, and security architecture reviews.
+<div class="info-box">
+    <h3>Our Expertise</h3>
+    <p>With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity. Our services cover a wide range of areas including vulnerability assessments, threat intelligence, red teaming, and security architecture reviews.</p>
+</div>
 
-### **Our Objectives**
-
-Our goal is to develop a comprehensive cybersecurity approach by capitalizing on an offensive mindset to proactively address risks across three major pillars:
-
-**Offensive Security:** A mindset  -  **Defensive Security:** The goal to achieve  -  **Short- and Long-Term Consulting & Support:** Bringing experience and formalizing it to be effective
+<div class="info-box">
+    <h3>Our Objectives</h3>
+    <p>Our goal is to develop a comprehensive cybersecurity approach by capitalizing on an offensive mindset to proactively address risks across three major pillars:</p>
+    <ul>
+        <li><strong>Offensive Security:</strong> A mindset</li>
+        <li><strong>Defensive Security:</strong> The goal to achieve</li>
+        <li><strong>Short- and Long-Term Consulting & Support:</strong> Bringing experience and formalizing it to be effective</li>
+    </ul>
+</div>
 
 ---
 
