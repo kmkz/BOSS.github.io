@@ -3,13 +3,12 @@ layout: default
 title: "Bourbon Offensive Security Services (BOSS)"
 ---
 
-# Bourbon Offensive Security Services (B.O.S.S)
-
 <div style="text-align: center;">
   <h2 style="font-family: 'Roboto', sans-serif; color: #b30000; font-weight: bold;">Offense 4 Defense</h2>
 </div>
 
-<p style="text-align: center; color: #ccc; font-size: 1.2em;">At <strong>BOSS</strong>, we specialize in <strong>Offensive and Defensive Security</strong> consulting services. We combine deep technical expertise, a pragmatic approach, and a strategic mindset to help SME/SMB, administrations, and businesses strengthen their security posture in an ever-evolving threat landscape.</p>
+<p style="text-align: center; color: #ccc; font-size: 1.2em;">At <strong>Bourbon Offensive Ssecurity</strong>, we specialize in <strong>Offensive and Defensive Security</strong> consulting services. <p>
+<p style="text-align: center; color: #ccc; font-size: 1.2em;">We combine deep technical expertise, a pragmatic approach, and a strategic mindset to help SME/SMB, administrations, and businesses strengthen their security posture in an ever-evolving threat landscape.</p>
 
 ---
 
@@ -87,28 +86,28 @@ title: "Bourbon Offensive Security Services (BOSS)"
 
 ---
 
-## Why Choose Us?
+## Why Choose Us ?
 
-<h3 style="text-align: center; color: #f1f1f1;">Proven Expertise</h3>
-<p style="text-align: center; font-size: 1.1em; color: #f1f1f1;">Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications ( <strong>OSCP/OSCE certified</strong>).</p>
+- **Proven Expertise**
+Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications ( <strong>OSCP/OSCE certified</strong>).</p>
 
-<h3 style="text-align: center; color: #f1f1f1;">Tailored Solutions</h3>
-<p style="text-align: center; font-size: 1.1em; color: #f1f1f1;">Client-oriented (for real), we adapt our services to fit the unique needs of each client.</p>
+- **Tailored Solutions**
+Client-oriented (for real), we adapt our services to fit the unique needs of each client.
 
-<h3 style="text-align: center; color: #f1f1f1;">European Partnerships</h3>
-<p style="text-align: center; font-size: 1.1em; color: #f1f1f1;">Trusted partnerships with leading experts across Europe.</p>
+- **Partnerships**
+<p style="text-align: center; font-size: 1.1em; color: #f1f1f1;">Trusted partnerships with leading experts across Europe.
 
-<h3 style="text-align: center; color: #f1f1f1;">Strategic Insights</h3>
-<p style="text-align: center; font-size: 1.1em; color: #f1f1f1;">We help you not just respond to threats, but anticipate them.</p>
+- **Strategic Insights**
+We help you not just respond to threats, but anticipate them.
 
 ---
 
 ## Contact Us
 
-<p style="text-align: center;">Have questions? Get in touch with us to learn how we can help defend your business in an efficient way!</p>
+<p >Have questions? Get in touch with us to learn how we can help defend your business in an efficient way!</p>
 
 ### **Office Location:**
-9 rue des Prés,  
+9 rue des PrÃ©s,  
 L-9907 TROISVIERGES,  
 Luxembourg
 
@@ -119,7 +118,7 @@ Luxembourg
 
 ## Follow Us
 
-<p style="text-align: center; color: #f1f1f1;">Stay updated with the latest cybersecurity insights, trends, and news. Follow us on social media:</p>
+Stay updated with the latest cybersecurity insights, trends, and news. Follow us on social media:
 
 - [LinkedIn](https://www.linkedin.com/in/jean-marie-bourbon/)
 - [Twitter](https://x.com/kmkz_security)
@@ -127,6 +126,6 @@ Luxembourg
 ---
 
 ### **Get Started Today!**
-At **BOSS**, we are committed to helping you safeguard your digital assets. Reach out to us today and take the first step toward securing your business.
+<p style="text-align: center; color: #f1f1f1;">At **BOSS**, we are committed to helping you safeguard your digital assets. Reach out to us today and take the first step toward securing your business.<p>
 
 ---
