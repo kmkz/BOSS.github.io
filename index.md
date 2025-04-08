@@ -7,8 +7,8 @@ title: "Bourbon Offensive Security Services (BOSS)"
   <h2 style="font-family: 'Roboto', sans-serif; color: #b22222; font-weight: bold;">Offense 4 Defense</h2>
 </div>
 
-<p style="text-align: center; color: #ccc; font-size: 1.2em;">At <strong>Bourbon Offensive Security</strong>, we specialize in <strong>Offensive and Defensive Security</strong> consulting services.</p>
-<p style="text-align: center; color: #ccc; font-size: 1.2em;">We combine deep technical expertise, a pragmatic approach, and a strategic mindset to help SME/SMB, administrations, and businesses strengthen their security posture in an ever-evolving threat landscape.</p>
+<p style="text-align: center; color: #ccc; font-size: 1.2em;">At <strong>Bourbon Offensive Security</strong>, we specialize in <strong>Offensive</strong> and <strong>Defensive Security</strong> consulting services.</p>
+<p style="text-align: center; color: #ccc; font-size: 1.2em;">We combine deep technical expertise, a pragmatic approach made by more than 15 years of experience on the battlefield and a strategic offensive mindset to help SME/SMB, administrations or businesses strengthen their security posture in an ever-evolving threat landscape.</p>
 
 ---
 
@@ -81,13 +81,13 @@ title: "Bourbon Offensive Security Services (BOSS)"
 <ul style="color: #f1f1f1; font-size: 1.1em;">
   <li><strong>Proven Expertise</strong><br>
   Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications (<strong>OSCP/OSCE certified</strong>).</li>
-
+  <br>
   <li><strong>Tailored Solutions</strong><br>
   Client-oriented (for real), we adapt our services to fit the unique needs of each client.</li>
-
+  <br>
   <li><strong>Partnerships</strong><br>
   Trusted partnerships with leading experts across Europe.</li>
-
+  <br>
   <li><strong>Strategic Insights</strong><br>
   We help you not just respond to threats, but anticipate them.</li>
 </ul>
@@ -121,4 +121,4 @@ Stay updated with the latest cybersecurity insights, trends, and news.
 
 ---
 
-<h3 style="text-align: center; color: #f1f1f1;">At <strong>B.O.S.S</strong>, we are committed to helping you safeguard your digital assets. Reach out to us today and take the first step toward securing your business.</h3>
+<p style="text-align: center;">At <strong>B.O.S.S</strong>, we are committed to helping you safeguard your digital assets. Reach out to us today and take the first step toward securing your business.</p>
