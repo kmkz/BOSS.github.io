@@ -103,6 +103,14 @@
     .btn:hover {
       background-color: #45a049;
     }
+
+
+    .logo {
+    width: 120px; /* ajuste la taille selon tes besoins */
+    display: block;
+    margin: 20px auto; /* centré avec un peu d'espace */
+  }
+
   </style>
 <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
@@ -111,8 +119,9 @@
 
   <!-- Header -->
   <header>
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
+    <img src="assets/logo.jpg" alt="BOSS logo" class="logo">
+  <!--  <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p> -->
   </header>
 
   <!-- Main content -->
