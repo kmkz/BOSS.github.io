@@ -1,3 +1,8 @@
+---
+title: "Bourbon Offensive Security Services (BOSS)"
+layout: default
+---
+
 # Bourbon Offensive Security Services (BOSS)
 
 ## 1. Executive Summary  
@@ -56,23 +61,7 @@ To develop a comprehensive cybersecurity offering, leveraging an offensive minds
 
 ---
 
-## 4. Organization and Management  
-- **CEO:** Bourbon Jean-Marie (*100% ownership*).  
-- **Partners:** Recognized experts who can provide seamless expertise tailored to the needs of the client.
-
-### Key Skills:  
-- Internationally recognized **technical expertise**.  
-- **Client-oriented approach**, adapted to real-world constraints.  
-- High-level professional **certifications** (certified **OSCP/OSCE**).  
-- **Cross-functional vision** of cybersecurity challenges, gained through over 15 years of diverse experience in the field.
-
-### Tools and Infrastructure:  
-- **Cloud-based lab hosted in Luxembourg.**  
-- **Professional cybersecurity tools** and in-house developments.  
-
----
-
-## 5. Contact Information  
+## 4. Contact Information  
 
 For inquiries or to schedule a consultation, please reach out using the following contact information:
 
