@@ -67,4 +67,68 @@ title: "Bourbon Offensive Security Services (BOSS)"
     <h3 style="color: #f1f1f1;">Defensive Security</h3>
     <p style="line-height: 1.8; font-size: 1.1em;">
       Audits and cybersecurity awareness training.<br>
-      Support for applying remediation after offensive security tests.<
+      Support for applying remediation after offensive security tests.<br>
+      Contribution, organization, and management of <strong>purple teaming</strong>.<br>
+      Proactive <strong>threat intelligence</strong> (continuous monitoring).<br>
+      Incident response support.
+    </p>
+  </div>
+
+  <!-- Long-Term Projects -->
+  <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
+    <h3 style="color: #f1f1f1;">Long-Term Projects</h3>
+    <p style="line-height: 1.8; font-size: 1.1em;">
+      Long-term support for project management or continuous <strong>threat intelligence</strong>.<br>
+      Tailored approach adapted to the specific needs of clients.
+    </p>
+  </div>
+
+</div>
+
+---
+
+## <div style="text-align: center; color: #f1f1f1;">Why Choose Us?</div>
+
+<div style="text-align: center; color: #f1f1f1; font-size: 1.1em; margin-top: 30px;">
+  <h3>Proven Expertise</h3>
+  <p>Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications ( <strong>OSCP/OSCE certified</strong>).</p>
+
+  <h3>Tailored Solutions</h3>
+  <p>Client-oriented (for real), we adapt our services to fit the unique needs of each client.</p>
+
+  <h3>European Partnerships</h3>
+  <p>Trusted partnerships with leading experts across Europe.</p>
+
+  <h3>Strategic Insights</h3>
+  <p>We help you not just respond to threats, but anticipate them.</p>
+</div>
+
+---
+
+## Contact Us
+
+<p style="text-align: center;">Have questions? Get in touch with us to learn how we can help defend your business in an efficient way!</p>
+
+### **Office Location:**
+9 rue des Prés,  
+L-9907 TROISVIERGES,  
+Luxembourg
+
+### **Email:**
+[contact@boffsec.com](mailto:contact@boffsec.com)
+
+---
+
+## Follow Us
+
+<p style="text-align: center; color: #f1f1f1;">Stay updated with the latest cybersecurity insights, trends, and news. Follow us on social media:</p>
+
+- [LinkedIn](https://www.linkedin.com/in/jean-marie-bourbon/)
+- [Twitter](https://x.com/kmkz_security)
+
+---
+
+### **Get Started Today!**
+At **BOSS**, we are committed to helping you safeguard your digital assets. Reach out to us today and take the first step toward securing your business.
+
+---
