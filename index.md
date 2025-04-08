@@ -4,7 +4,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
 ---
 
 <div style="text-align: center;">
-  <h2 style="font-family: 'Roboto', sans-serif; color: #b30000; font-weight: bold;">Offense 4 Defense</h2>
+  <h2 style="font-family: 'Roboto', sans-serif; color: #b22222; font-weight: bold;">Offense 4 Defense</h2>
 </div>
 
 <p style="text-align: center; color: #ccc; font-size: 1.2em;">At <strong>Bourbon Offensive Security</strong>, we specialize in <strong>Offensive and Defensive Security</strong> consulting services.</p>
@@ -98,14 +98,14 @@ title: "Bourbon Offensive Security Services (BOSS)"
 
 <p style="text-align: center;">Have questions? Get in touch with us to learn how we can help defend your business in an efficient way!</p>
 
-<h3 style="text-align: center;">Office Location:</h3>
+<h3 style="text-align: center;">Office Location</h3>
 <p style="text-align: center;">
 9 rue des Prés,  
 L-9907 TROISVIERGES,  
 Luxembourg
 </p>
 
-<h3 style="text-align: center;">Email:</h3>
+<h3 style="text-align: center;">Email</h3>
 <p style="text-align: center;">
 <a href="mailto:contact@boffsec.com">contact@boffsec.com</a>
 </p>
@@ -121,4 +121,4 @@ Stay updated with the latest cybersecurity insights, trends, and news.
 
 ---
 
-<h3 style="text-align: center; color: #f1f1f1;">At <strong>BOSS</strong>, we are committed to helping you safeguard your digital assets. Reach out to us today and take the first step toward securing your business.</h3>
+<h3 style="text-align: center; color: #f1f1f1;">At <strong>B.O.S.S</strong>, we are committed to helping you safeguard your digital assets. Reach out to us today and take the first step toward securing your business.</h3>
