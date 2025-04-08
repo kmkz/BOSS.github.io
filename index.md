@@ -6,8 +6,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
 # Bourbon Offensive Security Services (B.O.S.S)
 
 ---
-
-## **Welcome to BOSS**
+**Offense 4 Defense**
 
 At **BOSS**, we specialize in **Offensive and Defensive Security** consulting services. 
 We combine deep technical expertise, a pragmatic approach, and a strategic mindset to help SME/SMB, administrations, and businesses strengthen their security posture in an ever-evolving threat landscape.
@@ -97,10 +96,26 @@ We combine deep technical expertise, a pragmatic approach, and a strategic minds
 
 ## **Why Choose Us ?**
 
-- **Proven Expertise:** Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized  expertise and high-level professional certifications ( **OSCP/OSCE certified** ).
-- **Tailored Solutions:** Client oriented (for real), we adapt our services to fit the unique needs of each client.
-- **European Partnerships:** Trusted partnerships with leading experts across Europe.
-- **Strategic Insights:** We help you not just respond to threats, but **anticipate** them.
+<div class="highlight-box">
+    <h3>Proven Expertise</h3>
+    <p>Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications (OSCP/OSCE certified).</p>
+</div>
+
+<div class="highlight-box">
+    <h3>Tailored Solutions</h3>
+    <p>Client-oriented (for real), we adapt our services to fit the unique needs of each client.</p>
+</div>
+
+<div class="highlight-box">
+    <h3>European Partnerships</h3>
+    <p>Trusted partnerships with leading experts across Europe.</p>
+</div>
+
+<div class="highlight-box">
+    <h3>Strategic Insights</h3>
+    <p>We help you not just respond to threats, but anticipate them.</p>
+</div>
+
 
 ---
 
