@@ -1,8 +1,3 @@
----
-title: "Bourbon Offensive Security Services (BOSS)"
-layout: default
----
-
 # Bourbon Offensive Security Services (BOSS)
 
 ## 1. Executive Summary  
