@@ -17,12 +17,13 @@ title: "Bourbon Offensive Security Services (BOSS)"
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; margin-top: 30px;">
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Our Mission</h3>
-    <p style="line-height: 1.8; font-size: 1.1em;">We offer comprehensive cybersecurity services tailored to each client's needs. Whether you're a small business, a government agency, or a large enterprise, our services are designed to address your specific security challenges with cost-effective and scalable solutions.</p>
+    <p style="line-height: 1.8; font-size: 1.1em;">We propose a comprehensive and actionnable cybersecurity services tailored to each client's needs. Whether you're a small business, a government agency, or a large enterprise, our services are designed to address your specific security challenges with cost-effective and scalable solutions.
+      <br> Human if often presented as main attack vector, well, we believe in human and skills, and you ?</p>
   </div>
 
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Our Expertise</h3>
-    <p style="line-height: 1.8; font-size: 1.1em;">With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity. Our services cover a wide range of areas including vulnerability assessments, threat intelligence, red teaming, and security architecture reviews.</p>
+    <p style="line-height: 1.8; font-size: 1.1em;">With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity. Our services cover a wide range of areas including vulnerability assessments from discovery to impact validation, threat intelligence, red teaming activities, security architecture reviews and more by always with an offensive mindset to bring a non-conventional but efficient and proven added-value.</p>
   </div>
 </div>
 
