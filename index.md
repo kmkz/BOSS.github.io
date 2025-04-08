@@ -8,6 +8,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
 ---
 <center>
 <h2>Offense 4 Defense</h2>
+</center>
 
 At **BOSS**, we specialize in **Offensive and Defensive Security** consulting services. 
 We combine deep technical expertise, a pragmatic approach, and a strategic mindset to help SME/SMB, administrations, and businesses strengthen their security posture in an ever-evolving threat landscape.
