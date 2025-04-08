@@ -94,12 +94,13 @@ We combine deep technical expertise, a pragmatic approach, and a strategic minds
 
 
 ---
+<center>
 
 ## **Why Choose Us ?**
 
-<center>
+
     <h3>Proven Expertise</h3>
-    <p>Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications ( **OSCP/OSCE certified**).</p>
+    <p>Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications ( <strong>OSCP/OSCE certified</strong>) .</p>
 
     <h3>Tailored Solutions</h3>
     <p>Client-oriented (for real), we adapt our services to fit the unique needs of each client.</p>
