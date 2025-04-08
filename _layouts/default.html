@@ -108,21 +108,22 @@
 .site-header {
   display: flex;
   align-items: center;
-  justify-content: center;  /* centre le contenu dans le header */
-  padding: 10px 40px;       /* padding autour pour ne pas coller au bord */
+  justify-content: center;  /* centre tout le contenu */
+  padding: 10px 40px;       /* padding pour espacer les éléments */
   background-color: #000000;   /* bandeau noir */
   position: sticky;
   top: 0;
   z-index: 1000;
   border-bottom: 4px solid #222;  /* ligne sous le header */
-  width: 100%;                   /* garantit que le header prend toute la largeur */
+  width: 100%;                   /* assure une largeur complète */
 }
 
 .logo {
-  width: 140px;                  /* logo agrandi à 120px */
+  width: 140px;                 /* logo à 140px */
   height: 140px;
   object-fit: contain;
-  margin-right: 110px;           /* espace large entre logo et texte */
+  margin-right: 120px;           /* grande marge entre logo et texte */
+  margin-left: -10px;           /* décaler légèrement à gauche si trop centré */
 }
 
 .site-title {
