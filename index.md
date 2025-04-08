@@ -15,25 +15,26 @@ We combine deep technical expertise, a pragmatic approach, and a strategic minds
 
 ## **What We Do**
 
-<div class="info-box">
-    <h3>Our Mission</h3>
-    <p>We offer comprehensive cybersecurity services tailored to each client's needs. Whether you're a small business, a government agency, or a large enterprise, our services are designed to address your specific security challenges with cost-effective and scalable solutions.</p>
+<div class="highlight-box">
+    <h3>Proven Expertise</h3>
+    <p>Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications (OSCP/OSCE certified).</p>
 </div>
 
-<div class="info-box">
-    <h3>Our Expertise</h3>
-    <p>With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity. Our services cover a wide range of areas including vulnerability assessments, threat intelligence, red teaming, and security architecture reviews.</p>
+<div class="highlight-box">
+    <h3>Tailored Solutions</h3>
+    <p>Client-oriented (for real), we adapt our services to fit the unique needs of each client.</p>
 </div>
 
-<div class="info-box">
-    <h3>Our Objectives</h3>
-    <p>Our goal is to develop a comprehensive cybersecurity approach by capitalizing on an offensive mindset to proactively address risks across three major pillars:</p>
-    <ul>
-        <li><strong>Offensive Security:</strong> A mindset</li>
-        <li><strong>Defensive Security:</strong> The goal to achieve</li>
-        <li><strong>Short- and Long-Term Consulting & Support:</strong> Bringing experience and formalizing it to be effective</li>
-    </ul>
+<div class="highlight-box">
+    <h3>European Partnerships</h3>
+    <p>Trusted partnerships with leading experts across Europe.</p>
 </div>
+
+<div class="highlight-box">
+    <h3>Strategic Insights</h3>
+    <p>We help you not just respond to threats, but anticipate them.</p>
+</div>
+
 
 ---
 
