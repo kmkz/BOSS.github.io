@@ -105,10 +105,12 @@ title: "Bourbon Offensive Security Services (BOSS)"
 <h3 style="text-align: center;">Office Location</h3>
 <p style="text-align: center;">
 9 rue des Prés,  
+<br>
 L-9907 TROISVIERGES,  
+<br>
 Luxembourg
-
-Tel.:+352) 661 523 211
+<br><br>
+Tel.: (+352) 661 523 211
 </p>
 
 <h3 style="text-align: center;">Email</h3>
