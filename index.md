@@ -34,9 +34,9 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px;">
 
-  <div style="flex: 1 1 48%; border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
+  <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Consulting Services</h3>
     <p style="line-height: 1.8;">
       Implementation and management of cybersecurity projects.<br>
@@ -48,7 +48,7 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
     </p>
   </div>
 
-  <div style="flex: 1 1 48%; border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
+  <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Offensive Security</h3>
     <p style="line-height: 1.8;">
       Attack simulations (<strong>assume breach</strong> and <strong>adversary simulation</strong>), penetration testing (external, internal, web, physical, etc.).<br>
@@ -59,7 +59,7 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
     </p>
   </div>
 
-  <div style="flex: 1 1 48%; border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
+  <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Defensive Security</h3>
     <p style="line-height: 1.8;">
       Audits and cybersecurity awareness training.<br>
@@ -70,7 +70,7 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
     </p>
   </div>
 
-  <div style="flex: 1 1 48%; border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
+  <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Long-Term Projects</h3>
     <p style="line-height: 1.8;">
       Long-term support for project management or continuous <strong>threat intelligence</strong>.<br>
