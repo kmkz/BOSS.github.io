@@ -4,7 +4,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
 ---
 
 <div style="text-align: center;">
-  <h2 style="font-family: 'Roboto', sans-serif; color: #b22222; font-weight: bold;">Offense 4 Defense</h2>
+  <h2 style="font-family: 'Roboto', sans-serif; color: #b22222; font-weight: bold;">"Offense 4 Defense"</h2>
 </div>
 
 <p style="text-align: center; color: #ccc; font-size: 1.2em;">At <strong>Bourbon Offensive Security</strong>, we specialize in <strong>Offensive</strong> and <strong>Defensive Security</strong> consulting services.</p>
@@ -107,18 +107,10 @@ Luxembourg
 
 <h3 style="text-align: center;">Email</h3>
 <p style="text-align: center;">
-<a href="mailto:contact@boffsec.com">contact@boffsec.com</a>
+<a href="mailto:contact@boffsec.com">contact@boffsec.com</a> 
+<br><a href="https://www.linkedin.com/in/jean-marie-bourbon/">LinkedIn</a> | <a href="https://x.com/kmkz_security">Twitter</a>
 </p>
 
 ---
 
-<h2 style="text-align: center;">Follow Us</h2>
-
-<p style="text-align: center;">
-Stay updated with the latest cybersecurity insights, trends, and news.  
-<a href="https://www.linkedin.com/in/jean-marie-bourbon/">LinkedIn</a> | <a href="https://x.com/kmkz_security">Twitter</a>
-</p>
-
----
-
-<p style="text-align: center;">At <strong>B.O.S.S</strong>, we are committed to helping you safeguard your digital assets. Reach out to us today and take the first step toward securing your business.</p>
+<p style="text-align: center;">Call the <strong>B.O.S.S</strong>: reach out to us today and take the first step toward securing your business !</p>
