@@ -56,7 +56,7 @@ With years of field experience and strategic partnerships across Europe, we prov
 Have questions? Get in touch with us to learn how we can help protect your business.
 
 ### **Office Location:**
-9 rue des Prés,  
+9 rue des PrÃ©s,  
 L-9907 TROISVIERGES,  
 Luxembourg  
 
@@ -79,4 +79,4 @@ At **BOSS**, we are committed to helping you safeguard your digital assets. Reac
 
 ---
 
-**© 2025 Bourbon Offensive Security Services (BOSS)**
+**Â© 2025 Bourbon Offensive Security Services (BOSS)**
