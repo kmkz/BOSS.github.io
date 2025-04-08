@@ -1,28 +1,5 @@
 /* Style gÃ©nÃ©ral du site */
-.highlight-box {
-    background-color: #f4f6f9; /* Fond clair, neutre, qui se fond bien avec l'ensemble */
-    border: 1px solid #ddd; /* Bordure claire pour délimiter sans être trop marquée */
-    color: #333; /* Texte en gris foncé pour plus de lisibilité */
-    padding: 20px;
-    margin: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Légère ombre pour donner du relief sans trop de contraste */
-}
 
-.highlight-box h3 {
-    font-size: 1.4em;
-    color: #1a73e8; /* Un bleu léger qui se marie bien avec le reste du site */
-    margin-bottom: 10px;
-    font-weight: 600;
-}
-
-.highlight-box p {
-    color: #333; /* Texte plus sombre pour une meilleure lisibilité */
-    font-size: 1.1em;
-    line-height: 1.6;
-}
-
-}
 
 .site-header {
   background-color: #1a1a1a; /* Fond sombre pour l'en-tÃªte */
