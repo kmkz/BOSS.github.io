@@ -4,7 +4,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
 ---
 
 <div style="text-align: center;">
-  <h2 style="font-family: 'Roboto', sans-serif; color: #b22222; font-weight: bold;">"Offense 4 Defense"</h2>
+  <h2 style="font-family: 'Roboto', sans-serif; color: #b22222; font-weight: bold;"> Offense 4 Defense </h2>
 </div>
 
 <p style="text-align: center; color: #ccc; font-size: 1.2em;">At <strong>Bourbon Offensive Security Services</strong>, we specialize in <strong>Offensive</strong> and <strong>Defensive Security</strong> consulting services.</p>
