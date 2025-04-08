@@ -1,4 +1,5 @@
 /* Style général du site */
+/**
 body {
   background-color: #2b2b2b; /* Fond sombre */
   color: #e0e0e0; /* Texte clair */
@@ -12,6 +13,7 @@ a:hover {
   color: #ff6347; /* Changement de couleur au survol */
 }
 
+*/
 .site-header {
   background-color: #1a1a1a; /* Fond sombre pour l'en-tête */
   padding: 20px;
@@ -23,4 +25,27 @@ footer {
   color: #e0e0e0;
   padding: 10px;
   text-align: center;
+}
+
+/* Applique la police Roboto globalement */
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6;
+  color: #333; /* Une couleur sombre pour le texte */
+}
+
+/* Style des titres */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+/* Autres éléments personnalisés */
+a {
+  color: #0066cc; /* Couleur pour les liens */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
