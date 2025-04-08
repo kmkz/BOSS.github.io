@@ -108,27 +108,27 @@
 .site-header {
   display: flex;
   align-items: center;
-  justify-content: flex-start;
-  padding: 10px 20px 10px 40px; /* padding ajusté pour un peu plus d’espace à gauche */
-  background-color: #000000;
+  justify-content: center;  /* centre le contenu dans le header */
+  padding: 10px 40px;       /* padding autour pour ne pas coller au bord */
+  background-color: #000000;   /* bandeau noir */
   position: sticky;
   top: 0;
   z-index: 1000;
-  border-bottom: 4px solid #333;
-  margin-left: 100px;  /* décale le tout un peu plus à droite */
+  border-bottom: 4px solid #222;  /* ligne sous le header */
+  width: 100%;                   /* garantit que le header prend toute la largeur */
 }
 
 .logo {
-  width: 120px;
+  width: 120px;                  /* logo agrandi à 120px */
   height: 120px;
   object-fit: contain;
-  margin-right: 40px;
+  margin-right: 110px;           /* espace large entre logo et texte */
 }
 
 .site-title {
   font-size: 26px;
   margin: 0;
-  color: #333;
+  color: #fff;                  /* couleur du texte en blanc */
 }
 
 
