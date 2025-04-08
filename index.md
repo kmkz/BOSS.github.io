@@ -9,7 +9,8 @@ title: "Welcome to Bourbon Offensive Security Services (BOSS)"
 
 ## **Welcome to BOSS**
 
-At **BOSS**, we specialize in **Offensive and Defensive Security** consulting services. We combine deep technical expertise, a pragmatic approach, and a strategic mindset to help businesses, administrations, and SMEs strengthen their security posture in an ever-evolving threat landscape.
+At **BOSS**, we specialize in **Offensive and Defensive Security** consulting services. 
+We combine deep technical expertise, a pragmatic approach, and a strategic mindset to help SME/SMB, administrations, and businesses strengthen their security posture in an ever-evolving threat landscape.
 
 ---
 
@@ -21,33 +22,54 @@ We offer comprehensive cybersecurity services tailored to each client's needs. W
 ### **Our Expertise**
 With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity. Our services cover a wide range of areas including vulnerability assessments, threat intelligence, red teaming, and security architecture reviews.
 
+## **Our Objectives**
+
+Our goal is to develop a comprehensive cybersecurity approach by capitalizing on an offensive mindset to proactively address risks across three major pillars:
+
+**1. Offensive Security:** Adopting a proactive mindset for identifying and exploiting vulnerabilities.  
+**2. Defensive Security:** Establishing the desired state for protecting systems and data.  
+**3. Short- and Long-Term Consulting & Support:** Leveraging experience and knowledge to create effective and actionable solutions.
+
 ---
 
-## **Services**
+## Services  
 
-### **Offensive Security**
-- **Penetration Testing:** External, internal, web, physical tests to identify vulnerabilities.
-- **Adversary Simulation:** Simulating advanced attackers to understand potential threats.
-- **Red-Teaming & TIBER:** Real-world cyber attack simulations to test defenses.
+---
 
-### **Defensive Security**
-- **Security Audits:** In-depth analysis of your security systems and protocols.
-- **Post-Test Remediation:** Help implement fixes based on penetration testing results.
-- **Proactive Threat Intelligence:** Continuous monitoring for emerging threats.
+### Cybersecurity Consulting
+- **Project Management:** Implementation and oversight of cybersecurity projects.
+- **Risk Prioritization & Remediation:** Assisting with risk identification and prioritization of remediation actions.
+- **Architecture & Technical Component Audits:** Conducting audits, such as Data Architecture review (DAT) using a novel "from the battlefield" approach.
+- **Supply Chain Risk Management:** Mitigating risks related to third-party suppliers and partners.
+- **Training & Awareness:** Providing training for technical teams and decision-makers to raise awareness of security risks.
+- **Strategic Consulting:** Offering guidance on topics such as cybersecurity policies, **NIS2** implementation, gap analysis, and more.
 
-### **Consulting & Strategic Guidance**
-- **Cybersecurity Strategy:** Tailored strategies for aligning your security posture with business goals.
-- **Regulatory Compliance:** Assistance with NIS2, GDPR, and other cybersecurity regulations.
-- **Risk Management:** Identifying and managing risks across your organization.
+### Offensive Security
+- **Attack Simulations:** Conducting **assume breach** and **adversary simulation** exercises, as well as penetration testing (external, internal, web, physical).
+- **Vulnerability Research:** Identifying vulnerabilities in sensitive products and systems.
+- **Patch Validation & Security Audits:** Reviewing security controls and validating patches.
+- **Red Teaming Exercises:** Conducting / supporting in **TIBER** oriented and **TLPT** exercises (in compliance with DORA).
+- **Offensive Architecture Reviews:** Reviewing system architectures with an offensive security mindset.
+
+### Defensive Security
+- **Security Audits & Awareness Training:** Assessing security weaknesses and raising awareness.
+- **Post-Testing Remediation Support:** Helping organizations apply remediation following offensive testing.
+- **Purple Teaming:** Organizing and facilitating **purple teaming** exercises to enhance collaboration between offensive and defensive teams.
+- **Proactive Threat Intelligence:** Continuous monitoring and analysis to detect potential threats.
+- **Incident Response Support:** Offering expert guidance and support during a security breach.
+
+### Long-Term Projects
+- **Ongoing Threat Intelligence:** Providing continuous support for threat intelligence and monitoring over time.
+- **Tailored Solutions:** Developing custom strategies to meet the unique needs of each client.
 
 ---
 
 ## **Why Choose Us?**
 
-- **Proven Expertise:** Over 15 years of experience in offensive security and defensive operations.
-- **Tailored Solutions:** We adapt our services to fit the unique needs of each client.
+- **Proven Expertise:** Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized  expertise and high-level professional certifications ( **OSCP/OSCE certified** ).
+- **Tailored Solutions:** Client oriented (for real), we adapt our services to fit the unique needs of each client.
 - **European Partnerships:** Trusted partnerships with leading experts across Europe.
-- **Strategic Insights:** We help you not just respond to threats, but anticipate them.
+- **Strategic Insights:** We help you not just respond to threats, but **anticipate** them.
 
 ---
 
@@ -69,8 +91,8 @@ Luxembourg
 
 Stay updated with the latest cybersecurity insights, trends, and news. Follow us on social media:
 
-- [LinkedIn](#https://www.linkedin.com/in/jean-marie-bourbon/)
-- [Twitter](#https://x.com/kmkz_security)
+- [LinkedIn](https://www.linkedin.com/in/jean-marie-bourbon/)
+- [Twitter](https://x.com/kmkz_security)
 
 ---
 
@@ -79,4 +101,4 @@ At **BOSS**, we are committed to helping you safeguard your digital assets. Reac
 
 ---
 
-**© 2025 Bourbon Offensive Security Services (BOSS)**
+***Offense 4 defense***
