@@ -1,7 +1,49 @@
+# General site settings
 title: "Bourbon Offensive Security Services (BOSS)"
-description: "Stay tuned for more info."
+description: "Specialized in offensive and defensive cybersecurity consulting and services."
+url: "https://web.boffsec.com" # Change to your actual domain URL
+baseurl: "/" # This is often "/" unless you're deploying to a subdirectory
+
+# Theme configuration
 theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Author settings
+author:
+  name: "Bourbon Jean-Marie"
+  email: "contact@boffsec.com" # Change to your actual email address
+  twitter: "kmkz" # Optional, if you have a Twitter handle
+
+# Social links (optional, add more if needed)
+social_links:
+  - type: "twitter"
+    url: "https://twitter.com/kmkz"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/in/jean-marie-bourbon"
+
+# Google Analytics (Optional, remove if you don't use it)
+google_analytics: "UA-XXXXX-Y" # Replace with your tracking ID if you have one
+
+# Custom variables (optional)
+contact_email: "contact@boffsec.com"
+contact_phone: "+352 123 456 789"
+company_address: "9 rue des Prés, L-9907 TROISVIERGES (LU)"
+
+# Exclude specific files from being processed by Jekyll
+exclude:
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "LICENSE"
+
+# Uncomment the following if you want to use custom Sass or CSS files
 sass:
   style: compressed
   load_paths:
     - _sass
+
+# Permalink structure
+permalink: /:year/:month/:day/:title/
