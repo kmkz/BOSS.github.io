@@ -108,19 +108,20 @@
 .site-header {
   display: flex;
   align-items: center;
+  justify-content: flex-start;
   padding: 20px;
-  background-color: #000000; /* optionnel */
+  background-color: #f5f5f5;
 }
 
 .logo {
-  width: 60px;
-  height: 60px;
-  object-fit: cover; /* garde l’image bien carrée, même si le fichier ne l’est pas */
-  margin-right: 15px;
+  width: 80px;               /* taille visible du logo */
+  height: 80px;              /* même hauteur pour un carré */
+  object-fit: cover;         /* rogne pour bien remplir */
+  margin-right: 20px;        /* espace entre logo et titre */
 }
 
 .site-title {
-  font-size: 24px;
+  font-size: 28px;
   margin: 0;
   color: #333;
 }
