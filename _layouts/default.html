@@ -106,10 +106,11 @@
 
 
     .logo {
-      width: 100%;
-      height: auto;
+      width: 100%;              /* prend toute la largeur disponible */
+      max-width: 300px;         /* limite sa taille sur grands écrans */
+      height: auto;             /* garde les proportions */
       display: block;
-      object-fit: contain; /* ou "cover" selon le rendu souhaité */
+      margin: 20px auto;        /* centré horizontalement + espace autour */
   }
 
   </style>
