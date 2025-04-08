@@ -105,26 +105,32 @@
     }
 
 
-.site-header {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  padding: 10px 20px; /* réduit le "gros" effet */
-  background-color: #000000;
-}
+    .site-header {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 10px 20px 10px 40px;
+      background-color: #000000;
+      position: sticky;
+      top: 0;                  /* garde le header visible en haut */
+      z-index: 1000;           /* pour qu’il soit au-dessus des autres éléments */
+      border-bottom: 4px solid #333; /* ligne sous le header */
+    }
 
-.logo {
-  width: 100px;
-  height: 100px;
-  object-fit: contain;
-  margin-right: 15px;
-}
+    .logo {
+      width: 120px;
+      height: 120px;
+      object-fit: contain;
+      margin-right: 40px;
+    }
 
-.site-title {
-  font-size: 24px;
-  margin: 0;
-  color: #333;
-}
+    .site-title {
+      font-size: 26px;
+      margin: 0;
+      color: #333;
+    }
+
+
 
 
 
