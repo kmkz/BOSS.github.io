@@ -13,7 +13,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
 
 ---
 
-## <div style="text-align: center; color: #f1f1f1;">What We Do</div>
+## What We Do
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; margin-top: 30px;">
   
@@ -33,7 +33,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
 
 ---
 
-## <div style="text-align: center; color: #f1f1f1;">Our Services</div>
+## Our Services
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; margin-top: 30px;">
   
@@ -87,21 +87,19 @@ title: "Bourbon Offensive Security Services (BOSS)"
 
 ---
 
-## <div style="text-align: center; color: #f1f1f1;">Why Choose Us?</div>
+## Why Choose Us?
 
-<div style="text-align: center; color: #f1f1f1; font-size: 1.1em; margin-top: 30px;">
-  <h3>Proven Expertise</h3>
-  <p>Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications ( <strong>OSCP/OSCE certified</strong>).</p>
+<h3 style="text-align: center; color: #f1f1f1;">Proven Expertise</h3>
+<p style="text-align: center; font-size: 1.1em; color: #f1f1f1;">Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications ( <strong>OSCP/OSCE certified</strong>).</p>
 
-  <h3>Tailored Solutions</h3>
-  <p>Client-oriented (for real), we adapt our services to fit the unique needs of each client.</p>
+<h3 style="text-align: center; color: #f1f1f1;">Tailored Solutions</h3>
+<p style="text-align: center; font-size: 1.1em; color: #f1f1f1;">Client-oriented (for real), we adapt our services to fit the unique needs of each client.</p>
 
-  <h3>European Partnerships</h3>
-  <p>Trusted partnerships with leading experts across Europe.</p>
+<h3 style="text-align: center; color: #f1f1f1;">European Partnerships</h3>
+<p style="text-align: center; font-size: 1.1em; color: #f1f1f1;">Trusted partnerships with leading experts across Europe.</p>
 
-  <h3>Strategic Insights</h3>
-  <p>We help you not just respond to threats, but anticipate them.</p>
-</div>
+<h3 style="text-align: center; color: #f1f1f1;">Strategic Insights</h3>
+<p style="text-align: center; font-size: 1.1em; color: #f1f1f1;">We help you not just respond to threats, but anticipate them.</p>
 
 ---
 
