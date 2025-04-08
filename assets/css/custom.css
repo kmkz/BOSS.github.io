@@ -6,7 +6,7 @@ h2, h3 {
 }
 
 .site-header {
-  background-color: #1a1a1a; /* Fond sombre pour l'en-tête */
+  background-color: #deddda; /* Fond sombre pour l'en-tête - original: 1a1a1a*/
   padding: 20px;
   text-align: center;
 }
