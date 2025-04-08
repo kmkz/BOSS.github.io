@@ -1,4 +1,5 @@
-description: "stay tuned !"
+title: "Bourbon Offensive Security Services (BOSS)"
+description: "Stay tuned for more info."
 theme: jekyll-theme-cayman
 sass:
   style: compressed
