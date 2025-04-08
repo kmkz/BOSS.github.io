@@ -19,7 +19,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
     <h3 style="color: #f1f1f1;">Our Mission</h3>
     <p style="line-height: 1.8; font-size: 1.1em;">We propose a comprehensive, realistic and actionnable cybersecurity services tailored to each client's needs. 
       <br>Whether you're a small business, a government agency or a large enterprise, our services are designed to address your specific security challenges with cost-effective and scalable solutions.
-      <br><br><strong> Human if often presented as main attack vector, well, we believe in the human and skills, and you ?</strong></p>
+      <br><br><strong> Human if often presented as aweakness and an attack vector, well, it is true but because it is the key, we believe in the human and skills, and you ?</strong></p>
   </div>
 
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
