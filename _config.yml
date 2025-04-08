@@ -1,3 +1,8 @@
 title: "Boffsec Web Site"
 description: "stay tuned !"
 theme: jekyll-theme-cayman
+
+sass:
+  style: compressed
+  load_paths:
+    - _sass
