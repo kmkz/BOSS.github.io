@@ -1,0 +1,81 @@
+/* Style général du site */
+
+h2, h3 {
+  text-align: center;
+  color: #f1f1f1; /* Vous pouvez ajuster la couleur si n�cessaire */
+}
+
+.site-header {
+  background-color: #1a1a1a; /* Fond sombre pour l'en-tête */
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  background-color: #1a1a1a; /* Fond sombre pour le pied de page */
+  color: #e0e0e0;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Applique la police Roboto globalement */
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6;
+  color: #333; /* Une couleur sombre pour le texte */
+}
+
+/* Style des titres */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+/* Autres éléments personnalisés */
+a {
+  color: #0066cc; /* Couleur pour les liens */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Style global pour le body */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+/* Contenu principal */
+.main-content {
+  flex: 1;
+}
+
+/* Style pour le footer */
+footer {
+  background-color: #333; /* Couleur de fond du footer */
+  color: white; /* Couleur du texte dans le footer */
+  text-align: center; /* Centrer le texte */
+  padding: 20px 0; /* Espacement autour du texte */
+  font-size: 14px; /* Taille de la police */
+  width: 100%;
+  margin-top: auto; /* Positionner le footer en bas de la page */
+}
+
+footer a {
+  color: #f1f1f1; /* Couleur des liens */
+  text-decoration: none; /* Enlever la décoration des liens */
+}
+
+footer a:hover {
+  text-decoration: underline; /* Souligner les liens au survol */
+}
+
+footer span {
+  font-weight: bold; /* Rendre le cœur plus visible */
+  font-size: 18px;
+}
+
