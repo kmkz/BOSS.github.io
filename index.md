@@ -5,46 +5,42 @@ title: "Bourbon Offensive Security Services (BOSS)"
 
 # Bourbon Offensive Security Services (B.O.S.S)
 
----
-<center>
-<h2>Offense 4 Defense</h2>
-</center>
+<div style="text-align: center;">
+  <h2 style="font-family: 'Roboto', sans-serif; color: #f1f1f1; font-weight: bold;">Offense 4 Defense</h2>
+</div>
 
-At **BOSS**, we specialize in **Offensive and Defensive Security** consulting services. 
-We combine deep technical expertise, a pragmatic approach, and a strategic mindset to help SME/SMB, administrations, and businesses strengthen their security posture in an ever-evolving threat landscape.
+<p style="text-align: center; color: #ccc; font-size: 1.2em;">At <strong>BOSS</strong>, we specialize in <strong>Offensive and Defensive Security</strong> consulting services. We combine deep technical expertise, a pragmatic approach, and a strategic mindset to help SME/SMB, administrations, and businesses strengthen their security posture in an ever-evolving threat landscape.</p>
 
 ---
 
-## **What We Do**
+## <div style="text-align: center; color: #f1f1f1;">What We Do</div>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; margin-top: 30px;">
+  
+  <!-- Our Mission -->
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Our Mission</h3>
-    <p style="line-height: 1.8;">
-    We offer comprehensive cybersecurity services tailored to each client's needs. Whether you're a small business, a government agency, or a large enterprise, our services are designed to address your specific security challenges with cost-effective and scalable solutions.
-   </p>
+    <p style="line-height: 1.8; font-size: 1.1em;">We offer comprehensive cybersecurity services tailored to each client's needs. Whether you're a small business, a government agency, or a large enterprise, our services are designed to address your specific security challenges with cost-effective and scalable solutions.</p>
   </div>
   
- <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
+  <!-- Our Expertise -->
+  <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Our Expertise</h3>
-    <p style="line-height: 1.8;">
-    With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity. Our services cover a wide range of areas including vulnerability assessments, threat intelligence, red teaming, and security architecture reviews.
-    </p>
+    <p style="line-height: 1.8; font-size: 1.1em;">With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity. Our services cover a wide range of areas including vulnerability assessments, threat intelligence, red teaming, and security architecture reviews.</p>
   </div>
 
+</div>
 
 ---
 
-## Services  
+## <div style="text-align: center; color: #f1f1f1;">Our Services</div>
 
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; margin-top: 30px;">
+  
+  <!-- Consulting Services -->
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Consulting Services</h3>
-    <p style="line-height: 1.8;">
+    <p style="line-height: 1.8; font-size: 1.1em;">
       Implementation and management of cybersecurity projects.<br>
       Assistance with risk prioritization and remediation follow-up.<br>
       Audit and review of architecture and technical components (e.g., Data Architecture Review).<br>
@@ -54,9 +50,10 @@ We combine deep technical expertise, a pragmatic approach, and a strategic minds
     </p>
   </div>
 
+  <!-- Offensive Security -->
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Offensive Security</h3>
-    <p style="line-height: 1.8;">
+    <p style="line-height: 1.8; font-size: 1.1em;">
       Attack simulations (<strong>assume breach</strong> and <strong>adversary simulation</strong>), penetration testing (external, internal, web, physical, etc.).<br>
       Vulnerability research on sensitive products.<br>
       <strong>Patch validation</strong> and security audits.<br>
@@ -65,9 +62,10 @@ We combine deep technical expertise, a pragmatic approach, and a strategic minds
     </p>
   </div>
 
+  <!-- Defensive Security -->
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Defensive Security</h3>
-    <p style="line-height: 1.8;">
+    <p style="line-height: 1.8; font-size: 1.1em;">
       Audits and cybersecurity awareness training.<br>
       Support for applying remediation after offensive security tests.<br>
       Contribution, organization, and management of <strong>purple teaming</strong>.<br>
@@ -76,9 +74,10 @@ We combine deep technical expertise, a pragmatic approach, and a strategic minds
     </p>
   </div>
 
+  <!-- Long-Term Projects -->
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Long-Term Projects</h3>
-    <p style="line-height: 1.8;">
+    <p style="line-height: 1.8; font-size: 1.1em;">
       Long-term support for project management or continuous <strong>threat intelligence</strong>.<br>
       Tailored approach adapted to the specific needs of clients.
     </p>
@@ -86,49 +85,43 @@ We combine deep technical expertise, a pragmatic approach, and a strategic minds
 
 </div>
 
-
-
-
-
-
 ---
-<center>
 
-<h2>Why Choose Us ? </h2>
+## <div style="text-align: center; color: #f1f1f1;">Why Choose Us?</div>
 
-    <h3>Proven Expertise</h3>
-    <p>Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications ( <strong>OSCP/OSCE certified</strong>) .</p>
+<div style="text-align: center; color: #f1f1f1; font-size: 1.1em; margin-top: 30px;">
+  <h3>Proven Expertise</h3>
+  <p>Cross-disciplinary perspective gained from an atypical and rich career spanning over 15 years in the field of offensive security / defensive operations with internationally recognized expertise and high-level professional certifications ( <strong>OSCP/OSCE certified</strong>).</p>
 
-    <h3>Tailored Solutions</h3>
-    <p>Client-oriented (for real), we adapt our services to fit the unique needs of each client.</p>
+  <h3>Tailored Solutions</h3>
+  <p>Client-oriented (for real), we adapt our services to fit the unique needs of each client.</p>
 
-    <h3>European Partnerships</h3>
-    <p>Trusted partnerships with leading experts across Europe.</p>
+  <h3>European Partnerships</h3>
+  <p>Trusted partnerships with leading experts across Europe.</p>
 
-    <h3>Strategic Insights</h3>
-    <p>We help you not just respond to threats, but anticipate them.</p>
-</center>
-
+  <h3>Strategic Insights</h3>
+  <p>We help you not just respond to threats, but anticipate them.</p>
+</div>
 
 ---
 
-## **Contact Us**
+## <div style="text-align: center; color: #f1f1f1;">Contact Us</div>
 
-Have questions? Get in touch with us to learn how we can help defend your business in an efficient way !
+<p style="text-align: center;">Have questions? Get in touch with us to learn how we can help defend your business in an efficient way!</p>
 
 ### **Office Location:**
-9 rue des PrÃ©s,  
+9 rue des Prés,  
 L-9907 TROISVIERGES,  
-Luxembourg  
+Luxembourg
 
 ### **Email:**
 [contact@boffsec.com](mailto:contact@boffsec.com)
 
 ---
 
-## **Follow Us**
+## <div style="text-align: center; color: #f1f1f1;">Follow Us</div>
 
-Stay updated with the latest cybersecurity insights, trends, and news. Follow us on social media:
+<p style="text-align: center; color: #f1f1f1;">Stay updated with the latest cybersecurity insights, trends, and news. Follow us on social media:</p>
 
 - [LinkedIn](https://www.linkedin.com/in/jean-marie-bourbon/)
 - [Twitter](https://x.com/kmkz_security)
