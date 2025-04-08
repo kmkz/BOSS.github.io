@@ -124,7 +124,6 @@ Stay updated with the latest cybersecurity insights, trends, and news. Follow us
 - [Twitter](https://x.com/kmkz_security)
 
 ---
-
 ### **Get Started Today!**
 <p style="text-align: center; color: #f1f1f1;">At **BOSS**, we are committed to helping you safeguard your digital assets. Reach out to us today and take the first step toward securing your business.<p>
 
