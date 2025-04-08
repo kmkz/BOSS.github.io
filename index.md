@@ -36,8 +36,8 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
 
 ---
 
-<div style="border: 1px solid #ddd; padding: 20px; margin-bottom: 20px; background-color: #f9f9f9;">
-  <h3 style="color: #333;">Consulting Services</h3>
+<div style="border: 1px solid #333; padding: 20px; margin-bottom: 20px; background-color: #1c1c1c; color: #fff;">
+  <h3 style="color: #f1f1f1;">Consulting Services</h3>
   <ul style="line-height: 1.8;">
     <li>Implementation and management of cybersecurity projects.</li>
     <li>Assistance with risk prioritization and remediation follow-up.</li>
@@ -48,8 +48,8 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
   </ul>
 </div>
 
-<div style="border: 1px solid #ddd; padding: 20px; margin-bottom: 20px; background-color: #f9f9f9;">
-  <h3 style="color: #333;">Offensive Security</h3>
+<div style="border: 1px solid #333; padding: 20px; margin-bottom: 20px; background-color: #1c1c1c; color: #fff;">
+  <h3 style="color: #f1f1f1;">Offensive Security</h3>
   <ul style="line-height: 1.8;">
     <li>Attack simulations (<strong>assume breach</strong> and <strong>adversary simulation</strong>), penetration testing (external, internal, web, physical, etc.).</li>
     <li>Vulnerability research on sensitive products.</li>
@@ -59,8 +59,8 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
   </ul>
 </div>
 
-<div style="border: 1px solid #ddd; padding: 20px; margin-bottom: 20px; background-color: #f9f9f9;">
-  <h3 style="color: #333;">Defensive Security</h3>
+<div style="border: 1px solid #333; padding: 20px; margin-bottom: 20px; background-color: #1c1c1c; color: #fff;">
+  <h3 style="color: #f1f1f1;">Defensive Security</h3>
   <ul style="line-height: 1.8;">
     <li>Audits and cybersecurity awareness training.</li>
     <li>Support for applying remediation after offensive security tests.</li>
@@ -70,8 +70,8 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
   </ul>
 </div>
 
-<div style="border: 1px solid #ddd; padding: 20px; background-color: #f9f9f9;">
-  <h3 style="color: #333;">Long-Term Projects</h3>
+<div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff;">
+  <h3 style="color: #f1f1f1;">Long-Term Projects</h3>
   <ul style="line-height: 1.8;">
     <li>Long-term support for project management or continuous <strong>threat intelligence</strong>.</li>
     <li>Tailored approach adapted to the specific needs of clients.</li>
