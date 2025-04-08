@@ -1,5 +1,4 @@
 ---
-title: "Bourbon Offensive Security Services (BOSS)"
 layout: default
 ---
 
