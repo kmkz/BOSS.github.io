@@ -22,7 +22,7 @@ We offer comprehensive cybersecurity services tailored to each client's needs. W
 ### **Our Expertise**
 With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity. Our services cover a wide range of areas including vulnerability assessments, threat intelligence, red teaming, and security architecture reviews.
 
-## **Our Objectives**
+### **Our Objectives**
 
 Our goal is to develop a comprehensive cybersecurity approach by capitalizing on an offensive mindset to proactively address risks across three major pillars:
 
@@ -36,31 +36,48 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
 
 ---
 
-### Consulting Services
-- Implementation and management of cybersecurity projects.  
-- Assistance with risk prioritization and remediation follow-up.  
-- Audit and review of architecture and technical components (e.g., Data Architecture Review).  
-- Support on risks related to the **supply chain**.  
-- Awareness training and education for technical teams and decision-makers.  
-- Strategic consulting on cybersecurity topics (e.g., defining cybersecurity policies (PSSI), **NIS2** implementation, gap analysis, etc.).  
+<div style="border: 1px solid #ddd; padding: 20px; margin-bottom: 20px; background-color: #f9f9f9;">
+  <h3 style="color: #333;">Consulting Services</h3>
+  <ul style="line-height: 1.8;">
+    <li>Implementation and management of cybersecurity projects.</li>
+    <li>Assistance with risk prioritization and remediation follow-up.</li>
+    <li>Audit and review of architecture and technical components (e.g., Data Architecture Review).</li>
+    <li>Support on risks related to the <strong>supply chain</strong>.</li>
+    <li>Awareness training and education for technical teams and decision-makers.</li>
+    <li>Strategic consulting on cybersecurity topics (e.g., defining cybersecurity policies (PSSI), <strong>NIS2</strong> implementation, gap analysis, etc.).</li>
+  </ul>
+</div>
 
-### Offensive Security
-- Attack simulations ( **assume breach** and **adversary simulation**), penetration testing (external, internal, web, physical, etc.).  
-- Vulnerability research on sensitive products.  
-- **Patch validation** and security audits.  
-- **Red teaming** exercises (**TIBER**/ **TLPT** for DORA compliance).  
-- **Offensive security-focused** architecture reviews.  
+<div style="border: 1px solid #ddd; padding: 20px; margin-bottom: 20px; background-color: #f9f9f9;">
+  <h3 style="color: #333;">Offensive Security</h3>
+  <ul style="line-height: 1.8;">
+    <li>Attack simulations (<strong>assume breach</strong> and <strong>adversary simulation</strong>), penetration testing (external, internal, web, physical, etc.).</li>
+    <li>Vulnerability research on sensitive products.</li>
+    <li><strong>Patch validation</strong> and security audits.</li>
+    <li><strong>Red teaming</strong> exercises (<strong>TIBER</strong>/<strong>TLPT</strong> for DORA compliance).</li>
+    <li><strong>Offensive security-focused</strong> architecture reviews.</li>
+  </ul>
+</div>
 
-### Defensive Security
-- Audits and cybersecurity awareness training.  
-- Support for applying remediation after offensive security tests.  
-- Contribution, organization, and management of **purple teaming**.  
-- Proactive **threat intelligence** (continuous monitoring).  
-- Incident response support.  
+<div style="border: 1px solid #ddd; padding: 20px; margin-bottom: 20px; background-color: #f9f9f9;">
+  <h3 style="color: #333;">Defensive Security</h3>
+  <ul style="line-height: 1.8;">
+    <li>Audits and cybersecurity awareness training.</li>
+    <li>Support for applying remediation after offensive security tests.</li>
+    <li>Contribution, organization, and management of <strong>purple teaming</strong>.</li>
+    <li>Proactive <strong>threat intelligence</strong> (continuous monitoring).</li>
+    <li>Incident response support.</li>
+  </ul>
+</div>
 
-### Long-Term Projects
-- Long-term support for project management or continuous **threat intelligence**.  
-- Tailored approach adapted to the specific needs of clients.
+<div style="border: 1px solid #ddd; padding: 20px; background-color: #f9f9f9;">
+  <h3 style="color: #333;">Long-Term Projects</h3>
+  <ul style="line-height: 1.8;">
+    <li>Long-term support for project management or continuous <strong>threat intelligence</strong>.</li>
+    <li>Tailored approach adapted to the specific needs of clients.</li>
+  </ul>
+</div>
+
 
 ---
 
