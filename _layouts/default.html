@@ -105,14 +105,26 @@
     }
 
 
-    .logo {
-      width: 100%;              /* prend toute la largeur disponible */
-      max-width: 1200px;         /* limite sa taille sur grands écrans */
-      height: auto;             /* garde les proportions */
-      display: block;
-      margin: 20px auto;        /* centré horizontalement + espace autour */
-      object-fit: cover; /* ou "cover" selon le rendu souhaité */
-  }
+.site-header {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-color: #000000; /* optionnel */
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  object-fit: cover; /* garde l’image bien carrée, même si le fichier ne l’est pas */
+  margin-right: 15px;
+}
+
+.site-title {
+  font-size: 24px;
+  margin: 0;
+  color: #333;
+}
+
 
   </style>
 <link rel="icon" href="favicon.ico" type="image/x-icon">
