@@ -1,8 +1,13 @@
 ---
+<<<<<<< HEAD
 title: "Bourbon Offensive Security Services (BOSS)"
 layout: default
 ---
 
+=======
+layout: default
+---
+>>>>>>> 1794603 (initialize v1)
 # Bourbon Offensive Security Services (BOSS)
 
 ## 1. Executive Summary  
