@@ -1,0 +1,26 @@
+/* Style général du site */
+body {
+  background-color: #2b2b2b; /* Fond sombre */
+  color: #e0e0e0; /* Texte clair */
+}
+
+a {
+  color: #1e90ff; /* Bleu clair pour les liens */
+}
+
+a:hover {
+  color: #ff6347; /* Changement de couleur au survol */
+}
+
+.site-header {
+  background-color: #1a1a1a; /* Fond sombre pour l'en-tête */
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  background-color: #1a1a1a; /* Fond sombre pour le pied de page */
+  color: #e0e0e0;
+  padding: 10px;
+  text-align: center;
+}
