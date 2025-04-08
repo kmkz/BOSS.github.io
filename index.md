@@ -34,7 +34,7 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
 
 ---
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Consulting Services</h3>
@@ -79,6 +79,7 @@ Our goal is to develop a comprehensive cybersecurity approach by capitalizing on
   </div>
 
 </div>
+
 
 
 
