@@ -1,5 +1,9 @@
 /* Style général du site */
 
+h2, h3 {
+  text-align: center;
+  color: #f1f1f1; /* Vous pouvez ajuster la couleur si n�cessaire */
+}
 
 .site-header {
   background-color: #1a1a1a; /* Fond sombre pour l'en-tête */
