@@ -13,8 +13,8 @@ title: "Bourbon Offensive Security Services (BOSS)"
 ---
 
 <h2 style="text-align: center;">What We Do</h2>
+<div class="grid-two-columns" style="margin-top: 30px;">
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; margin-top: 30px;">
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Our Mission</h3>
     <p style="line-height: 1.8; font-size: 1.1em;">We propose a comprehensive, realistic and actionnable cybersecurity services tailored to each client's needs. 
@@ -33,8 +33,8 @@ title: "Bourbon Offensive Security Services (BOSS)"
 ---
 
 <h2 style="text-align: center;">Our Services</h2>
+<div class="grid-two-columns" style="margin-top: 30px;">
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; margin-top: 30px;">
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Consulting Services</h3>
     <p style="line-height: 1.8;">
