@@ -140,10 +140,14 @@
         margin: 0 0 10px 0;
       }
 
-      .header-text {
-        font-size: 1.4rem;
-        white-space: pre-line;  /* Force le respect des sauts de ligne */
-      }
+    .header-text {
+      color: white;
+      font-size: 1.8rem;
+      text-align: center;
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+
     }
 
 
@@ -159,7 +163,7 @@
   <header class="header-text">
     <img src="assets/logo.png" alt="BOSS logo" class="logo">
   <!--  <h1>{{ site.title }}</h1> -->
-  <p>{{ site.description }}</p>
+  <p class="header-text">{{ site.description | newline_to_br }}</p>
   </header>
 
   <!-- Main content -->
