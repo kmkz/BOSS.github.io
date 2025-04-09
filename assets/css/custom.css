@@ -78,3 +78,6 @@ footer span {
   font-weight: bold; /* Rendre le cœur plus visible */
   font-size: 18px;
 }
+.site-description {
+  text-align: center;
+}
