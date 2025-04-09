@@ -6,7 +6,7 @@ h2, h3 {
 }
 
 .site-header {
-  background-color: #deddda; /* Fond sombre pour l'en-tête - original: 1a1a1a*/
+  background-color: #000000; /* Fond sombre pour l'en-tête - original: 1a1a1a*/
   padding: 20px;
   text-align: center;
 }
@@ -79,3 +79,6 @@ footer span {
   font-size: 18px;
 }
 
+.site-description {
+  text-align: center;
+}
