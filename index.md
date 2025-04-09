@@ -4,10 +4,10 @@ title: "Bourbon Offensive Security Services (BOSS)"
 ---
 
 <div style="text-align: center;">
-  <h2 style="font-family: 'Roboto', sans-serif; color: #f7bbbe; font-weight: bold;"> Offense 4 Defense </h2>
+  <h2 style="font-family: 'Roboto', sans-serif; color: #ff1a1a; font-weight: bold;"> Offense 4 Defense </h2>
 </div>
 
-<p style="text-align: center; color: #ccc; font-size: 1.2em;">At <strong>Bourbon Offensive Security Services</strong>, we specialize in <strong>Offensive</strong> and <strong>Defensive Security</strong> consulting services.</p>
+<p style="text-align: center; color: #ccc; font-size: 1.2em;">At <strong>Bourbon Offensive Security Services</strong>, we specialize in <strong>Offensive</strong> security and bring this mindset to the<strong>Defensive</strong> security bringing novel and real-life oriented approaches.</p>
 <p style="text-align: center; color: #ccc; font-size: 1.2em;">We combine deep technical expertise, a pragmatic approach made by more than 15 years of experience on the battlefield and a strategic offensive mindset to help SME/SMB, administrations or businesses strengthen their security posture in an ever-evolving threat landscape.</p>
 
 ---
