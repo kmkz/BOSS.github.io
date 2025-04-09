@@ -106,50 +106,43 @@
 
 /* Header général */
 
-    header {
-      background-color: #000000;
-      padding: 10px 30px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-wrap: wrap;
-      margin-bottom: 20px; /* Ajouté pour espacer le texte de l'image */
-    }
+header {
+  background-color: #000000;
+  padding: 10px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 20px; /* Ajouté pour espacer le texte de l'image */
+}
 
-    .logo {
-      height: 150px;
-      max-width: 100%;
-      object-fit: contain;
-      margin-right: 100px; /* Augmenté pour plus d'espace entre logo et texte */
-    }
+.logo {
+  height: 150px;
+  max-width: 100%;
+  object-fit: contain;
+  margin-right: 100px; /* Espace entre logo et texte */
+}
 
-    .header-text {
-      color: white;
-      font-size: 1.8rem;
-      text-align: center;
-    }
+.header-text {
+  color: white;
+  font-size: clamp(1rem, 2.5vw, 1.6rem); /* Responsive sans media query */
+  text-align: center;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
 
-    @media (max-width: 768px) {
-      header {
-        flex-direction: column;
-        padding: 20px;
-      }
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    padding: 20px;
+  }
 
-      .logo {
-        height: 120px;
-        margin: 0 0 10px 0;
-      }
-      /* responsive */
-      .header-text {
-        color: white;
-        font-size: clamp(1rem, 2.5vw, 1.6rem);
-        text-align: center;
-        margin-bottom: 20px;
-        line-height: 1.6;
-      }
+  .logo {
+    height: 120px;
+    margin: 0 0 10px 0;
+  }
+}
 
-
-    }
 
 
 
