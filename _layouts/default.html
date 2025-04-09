@@ -105,68 +105,45 @@
     }
 
 /* Header général */
-.site-header {
+header {
+  background-color: #000000;
+  padding: 10px 30px;
   display: flex;
   align-items: center;
-  justify-content: center;  /* Centre tout le contenu */
-  padding: 10px 40px;
-  background-color: #000000;
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-  border-bottom: 4px solid #222;
-  width: 100%;
+  justify-content: center; /* centré horizontalement */
+  flex-wrap: wrap;
 }
 
 .logo {
-  width: 170px;             /* Logo agrandi à 160px */
-  height: 170px;
+  height: 150px;
+  max-width: 100%;
   object-fit: contain;
   margin-right: 40px;
-  margin-left: 20px;        /* Décale légèrement vers la droite */
 }
 
-.site-title {
-  font-size: 26px;
-  margin: 0;
-  color: #fff;
+.header-text {
+  color: white;
+  font-size: 1.8rem;
+  font-family: sans-serif;
+  text-align: center;
 }
 
-/* Responsive - Tablettes et petits écrans (max-width: 768px) */
-@media screen and (max-width: 768px) {
-  .site-header {
-    padding: 10px 20px;
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    padding: 20px;
   }
 
   .logo {
-    width: 120px;           /* Logo réduit à 130px sur tablette */
-    height: 132px;
-    margin-right: 30px;
-    margin-left: 10px;      /* Ajuste la marge à gauche pour les tablettes */
+    height: 120px;
+    margin: 0 0 10px 0;
   }
 
-  .site-title {
-    font-size: 22px;
+  .header-text {
+    font-size: 1.4rem;
   }
 }
 
-/* Responsive - Téléphones (max-width: 480px) */
-@media screen and (max-width: 480px) {
-  .site-header {
-    padding: 10px 15px;
-  }
-
-  .logo {
-    width: 105px;           /* Logo réduit à 110px sur téléphone */
-    height: 105px;
-    margin-right: 20px;
-    margin-left: 5px;       /* Ajuste encore la marge à gauche pour les téléphones */
-  }
-
-  .site-title {
-    font-size: 20px;
-  }
-}
 
 
 
@@ -179,8 +156,8 @@
 <body>
 
   <!-- Header -->
-  <header class="site-header">
-    <img src="assets/logo.jpg" alt="BOSS logo" class="logo">
+  <header class="header-text">
+    <img src="assets/logo.png" alt="BOSS logo" class="logo">
   <!--  <h1>{{ site.title }}</h1> -->
     <p>{{ site.description }}</p>
   </header>
