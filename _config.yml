@@ -1,12 +1,13 @@
 # General site settings
 title: "Bourbon Offensive Security Services (BOSS)"
 description: |
-  Specialized in |
-  Offensive & defensive |
+  Specialized in
+  Offensive & defensive
   Cybersecurity consulting and services
 
 url: "https://www.boffsec-services.com"
 baseurl: "/"
+
 
 # Theme configuration
 theme: jekyll-theme-cayman
