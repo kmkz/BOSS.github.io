@@ -50,11 +50,11 @@ title: "Bourbon Offensive Security Services (BOSS)"
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Offensive Security</h3>
     <p style="line-height: 1.8;">
-      Attack simulations (<strong>assume breach</strong> and <strong>adversary simulation</strong>), penetration testing (external, internal, web, physical, etc.).<br>
+      Targeted attack simulations (<strong>adversary simulation</strong>).<br>Internal threats and supply-chain assessment (<strong>assume breach</strong>).<br>Penetration testing: from attack vectors to impact validations (external, internal, web, physical, etc.).<br>
       Vulnerability research on sensitive products.<br>
       <strong>Patch validation</strong> and security audits.<br>
-      <strong>Red teaming</strong> exercises (<strong>TIBER</strong>/<strong>TLPT</strong> for DORA compliance).<br>
-      <strong>Offensive security-focused</strong> architecture reviews.
+      Contribution, organization, and monitoring of<strong>Red teaming</strong> exercises (<strong>TIBER</strong>/<strong>TLPT</strong> - DORA compliance).<br>
+      <strong>Offensive security-oriented</strong> architecture and component reviews to increase the resiliency.
     </p>
   </div>
 
@@ -62,7 +62,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
     <h3 style="color: #f1f1f1;">Defensive Security</h3>
     <p style="line-height: 1.8;">
       Audits and cybersecurity awareness training.<br>
-      Support for applying remediation after offensive security tests.<br>
+      Support for <strong>applying remediation</strong>strong> after offensive security tests.<br>
       Contribution, organization, and management of <strong>purple teaming</strong>.<br>
       Proactive <strong>threat intelligence</strong> (continuous monitoring).<br>
       Incident response support.
