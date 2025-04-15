@@ -19,7 +19,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
     <h3 style="color: #f1f1f1;">Our Mission</h3>
     <p style="line-height: 1.8; font-size: 1.1em;">We propose a comprehensive, realistic and actionnable cybersecurity services tailored to each client's needs. 
       <br>Whether you're a small business, a government agency or a large enterprise, our services are designed to address your specific security challenges with cost-effective and scalable solutions.
-      <br><br><strong> Human if often presented as aweakness and an attack vector, well, it might be true and because it is the key, we believe in the human and skills, and you ?</strong></p>
+      <br><br><strong> Human if often presented as a weakness and an attack vector, well, it might be true and because it is the key, we believe in the human and skills, what about you ?</strong></p>
   </div>
 
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
@@ -43,7 +43,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
       Audit and review of architecture and technical components (e.g., Data Architecture Review).<br>
       Support on risks related to the <strong>supply chain</strong>.<br>
       Awareness training and education for technical teams and decision-makers.<br>
-      Strategic consulting on cybersecurity topics (e.g., defining cybersecurity policies (PSSI), <strong>NIS2</strong> implementation, gap analysis, etc.).
+      Strategic consulting on cybersecurity topics (e.g., defining/review cybersecurity policies, <strong>NIS2</strong> implementation, gap analysis, etc.).
     </p>
   </div>
 
@@ -53,7 +53,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
       Targeted attack simulations (<strong>adversary simulation</strong>).<br>Internal threats and supply-chain assessment (<strong>assume breach</strong>).<br>Penetration testing: from attack vectors to impact validations (external, internal, web, physical, etc.).<br>
       Vulnerability research on sensitive products.<br>
       <strong>Patch validation</strong> and security audits.<br>
-      Contribution, organization, and monitoring of<strong>Red teaming</strong> exercises (<strong>TIBER</strong>/<strong>TLPT</strong> - DORA compliance).<br>
+      Contribution, organization, and monitoring of <strong>Red teaming</strong> exercises (<strong>TIBER</strong>/<strong>TLPT</strong> - <strong>DORA</strong> compliance).<br>
       <strong>Offensive security-oriented</strong> architecture and component reviews to increase the resiliency.
     </p>
   </div>
@@ -62,7 +62,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
     <h3 style="color: #f1f1f1;">Defensive Security</h3>
     <p style="line-height: 1.8;">
       Audits and cybersecurity awareness training.<br>
-      Support for <strong>applying remediation</strong>strong> after offensive security tests.<br>
+      Support for <strong>applying remediation</strong> after offensive security tests.<br>
       Contribution, organization, and management of <strong>purple teaming</strong>.<br>
       Proactive <strong>threat intelligence</strong> (continuous monitoring).<br>
       Incident response support.
