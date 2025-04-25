@@ -118,7 +118,7 @@ Tel.: (+352) 661 523 211
 
 <h3 style="text-align: center;">Email</h3>
 <p style="text-align: center;">
-<a href="mailto:contact@boffsec.com">contact@boffsec.com</a>
+<a href="mailto:contact@boffsec.com">contact@boffsec-services.com</a>
 <br><a href="https://www.linkedin.com/company/bourbon-offsec-services/">LinkedIn</a> | <a href="https://x.com/kmkz_security">Twitter</a> | <a href="https://youtube.com/playlist?list=PLs_byGBGz8O77BN9LrqJBcinznNu6MvX9&si=kDRX9wnHXA31Mu_Y">YouTube recorded talks</a> | <a href="https://github.com/kmkz/">GitHub</a>
 </p>
 
