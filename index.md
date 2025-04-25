@@ -95,7 +95,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
   <li><strong>Strategic Insights</strong><br>
   We help you not just respond to threats, but anticipate them.</li>
   <br>
-  <li><strong>Proximlity</strong><br>
+  <li><strong>Proximity</strong><br>
   Close to you, we will be there when you will need us !</li>
 </ul>
 
