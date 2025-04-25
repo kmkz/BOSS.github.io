@@ -8,7 +8,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
 </div>
 
 <p style="text-align: center; color: #ccc; font-size: 1.2em;">Bourbon Offensive Security Services (<strong>BOSS</strong>) applies an <strong>offensive</strong> security mindset to <strong>defensive</strong> challenges, delivering novel and real-world oriented solutions.</p>
-<p style="text-align: center; color: #ccc; font-size: 1.2em;">We combine deep technical expertise with a pragmatic approach forged by over 15 years of front-line experience to help SMBs, administrations, and businesses enhance their security posture within an ever-evolving threat landscape.</p>
+<p style="text-align: center; color: #ccc; font-size: 1.2em;">We combine deep technical expertise with a pragmatic approach forged by over 15 years of front-line experience to support <strong>SMBs</strong>, <strong>industrial companies</strong>, administrations or businesses and enhance their security posture within an ever-evolving threat landscape.</p>
 
 ---
 
@@ -94,6 +94,9 @@ title: "Bourbon Offensive Security Services (BOSS)"
   <br>
   <li><strong>Strategic Insights</strong><br>
   We help you not just respond to threats, but anticipate them.</li>
+  <br>
+  <li><strong>Proximlity</strong><br>
+  Close to you, we will be there when you will need us !</li>
 </ul>
 
 ---
