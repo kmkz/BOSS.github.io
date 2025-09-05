@@ -8,7 +8,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
 </div>
 
 <p style="text-align: center; color: #ccc; font-size: 1.2em;">Bourbon Offensive Security Services (<strong>BOSS</strong>) applies an <strong>offensive</strong> security mindset to <strong>defensive</strong> challenges, delivering novel and real-world oriented solutions.</p>
-<p style="text-align: center; color: #ccc; font-size: 1.2em;">We combine deep technical expertise with a pragmatic approach forged by over 15 years of front-line experience to support <strong>SMBs</strong>, <strong>industrial companies</strong>, administrations or businesses and enhance their security posture within an ever-evolving threat landscape.</p>
+<p style="text-align: center; color: #ccc; font-size: 1.2em;">We combine deep technical expertise with a pragmatic approach forged by over 15 years of front-line experience to support businesses, SMBs, retail/industrial, or administrations to enhance their security posture within an ever-evolving threat landscape.</p>
 
 ---
 
@@ -24,7 +24,7 @@ title: "Bourbon Offensive Security Services (BOSS)"
 
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Our Expertise</h3>
-    <p style="line-height: 1.8; font-size: 1.1em;">With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity. 
+    <p style="line-height: 1.8; font-size: 1.1em;">With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity.
       <br>Our services cover a wide range of areas including vulnerability assessments (from discovery to impact validation), threat intelligence, red teaming activities, security architecture reviews and more.
       <br><br><strong>But always with an offensive mindset to bring a non-conventional but efficient and proven added-value that only real experts could bring !</strong></p>
   </div>
@@ -36,44 +36,45 @@ title: "Bourbon Offensive Security Services (BOSS)"
 <div class="grid-two-columns" style="margin-top: 30px;">
 
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
-    <h3 style="color: #f1f1f1;">Consulting Services</h3>
+    <h3 style="color: #f1f1f1;">Consulting</h3>
     <p style="line-height: 1.8;">
-      Implementation and management of cybersecurity projects.<br>
-      Assistance with risk prioritization and remediation follow-up.<br>
-      Audit and review of architecture and technical components (e.g., Data Architecture Review).<br>
-      Support on risks related to the <strong>supply chain</strong>.<br>
-      Awareness training and education for technical teams and decision-makers.<br>
-      Strategic consulting on cybersecurity topics (e.g., defining/review cybersecurity policies, <strong>NIS2</strong> implementation, gap analysis, etc.).
+      Implementation and management of cybersecurity projects<br>
+      Assistance with risk prioritization and remediation follow-up<br>
+      <strong>Offensive security-oriented</strong> architecture and technical components reviews to increase the resiliency
+      Support on risks related to the <strong>supply chain</strong><br>
+      Awareness training and education for technical teams and decision-makers<br>
+      Strategic consulting on cybersecurity topics (e.g., defining/review cybersecurity policies, <strong>NIS2</strong> implementation, gap analysis, etc.)
     </p>
   </div>
 
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Offensive Security</h3>
     <p style="line-height: 1.8;">
-      Targeted attack simulations (<strong>adversary simulation</strong>).<br>Internal threats and supply-chain assessment (<strong>assume breach</strong>).<br>Penetration testing: from attack vectors to impact validations (external, internal, web, physical, etc.).<br>
-      Vulnerability research on sensitive products.<br>
-      <strong>Patch validation</strong> and security audits.<br>
-      Contribution, organization, and monitoring of <strong>Red teaming</strong> exercises (<strong>TIBER</strong>/<strong>TLPT</strong> - <strong>DORA</strong> compliance).<br>
-      <strong>Offensive security-oriented</strong> architecture and component reviews to increase the resiliency.
+      Targeted attack simulations (<strong>adversary simulation</strong>)<br>
+      Internal threats and supply-chain assessment (<strong>assume breach</strong>).<br>Penetration testing: from attack vectors to impact validations (external, internal, web, physical, etc.)<br>
+      Vulnerability research on sensitive products<br>
+      <strong>Patch validation</strong> and security audits<br>
+      Contribution, organization, and monitoring of <strong>Red teaming</strong> exercises (<strong>TIBER</strong>/<strong>TLPT</strong> - <strong>DORA</strong> compliance)<br>
     </p>
   </div>
 
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Defensive Security</h3>
     <p style="line-height: 1.8;">
-      Audits and cybersecurity awareness training.<br>
-      Support for <strong>applying remediation</strong> after offensive security tests.<br>
-      Contribution, organization, and management of <strong>purple teaming</strong>.<br>
-      Proactive <strong>threat intelligence</strong> (continuous monitoring).<br>
-      Incident response support.
+      Audits and cybersecurity awareness training<br>
+      Contribution, organization, and management of <strong>purple teaming</strong><br>
+      Know your ennemy: Threat Intelligence services<br>
+      Attack surface management<br>
+      Proactive defense implementation (deception, honeypots,...)<br>
+      Incident response and response plan support
     </p>
   </div>
 
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Long-Term Projects</h3>
     <p style="line-height: 1.8;">
-      Long-term support for project management or continuous <strong>threat intelligence</strong>.<br>
-      Tailored approach adapted to the specific needs of clients.
+      Long-term support for project management or continuous <strong>threat intelligence</strong><br>
+      Tailored approach adapted to the specific needs of clients
     </p>
   </div>
 </div>
