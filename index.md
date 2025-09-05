@@ -25,8 +25,8 @@ title: "Bourbon Offensive Security Services (BOSS)"
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Our Expertise</h3>
     <p style="line-height: 1.8; font-size: 1.1em;">With years of field experience and strategic partnerships across Europe, we provide practical, realistic, and innovative approaches to cybersecurity.
-      <br>Our services cover a wide range of areas including vulnerability assessments (from discovery to impact validation), threat intelligence, red teaming activities, security architecture reviews and more.
-      <br><br><strong>But always with an offensive mindset to bring a non-conventional but efficient and proven added-value that only real experts could bring !</strong></p>
+      <br>Our services cover a wide range of areas including vulnerability assessments (from discovery to impact validation), threat intelligence, red teaming, security architecture reviews and more.
+      <br><br><strong>Always from an offensive point of view to bring a non-conventional but efficient and proven added-value that only real experts could bring !</strong></p>
   </div>
 </div>
 
@@ -38,11 +38,11 @@ title: "Bourbon Offensive Security Services (BOSS)"
   <div style="border: 1px solid #333; padding: 20px; background-color: #1c1c1c; color: #fff; text-align: center;">
     <h3 style="color: #f1f1f1;">Consulting</h3>
     <p style="line-height: 1.8;">
-      Implementation and management of cybersecurity projects<br>
-      Assistance with risk prioritization and remediation follow-up<br>
-      <strong>Offensive security-oriented</strong> architecture and technical components reviews to increase the resiliency
-      Support on risks related to the <strong>supply chain</strong><br>
-      Awareness training and education for technical teams and decision-makers<br>
+      Cybersecurity project implementation and management<br>
+      Assistance in risk prioritization and remediation follow-up<br>
+      <strong>Offensive security-oriented</strong> architecture and technical components reviews to increase the resiliency<br>
+      Support on risks related to the <strong>supply chain</strong> or <strong>internal threats</strong><br>
+      Training and education for technical teams and decision-makers<br>
       Strategic consulting on cybersecurity topics (e.g., defining/review cybersecurity policies, <strong>NIS2</strong> implementation, gap analysis, etc.)
     </p>
   </div>
