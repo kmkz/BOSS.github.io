@@ -37,8 +37,8 @@ google_analytics: "UA-XXXXX-Y" # Replace with your tracking ID if you have one
 google-site-verification: google61ff97d88b379ee0.html
 
 # Custom variables (optional)
-contact_email: "contact@boffsec.com"
-contact_phone: "+352 661 523 211"
+contact_email: "contact@boffsec-services.com"
+contact_phone: "(+352) 661 523 211"
 company_address: "9 rue des Prés, L-9907 TROISVIERGES (LU)"
 
 # Exclude specific files from being processed by Jekyll
