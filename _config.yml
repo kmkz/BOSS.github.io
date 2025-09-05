@@ -7,7 +7,7 @@ description: |
 
 url: "https://www.boffsec-services.com"
 baseurl: "/"
-
+plugins: jekyll-sitemap
 
 # Theme configuration
 theme: jekyll-theme-cayman
