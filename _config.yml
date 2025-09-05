@@ -22,17 +22,18 @@ permalink: pretty
 author:
   name: "Bourbon Jean-Marie"
   email: "contact@boffsec-services.com" # Change to your actual email address
-  twitter: "kmkz" # Optional, if you have a Twitter handle
+  twitter: "kmkz_security" # Optional, if you have a Twitter handle
 
 # Social links (optional, add more if needed)
 social_links:
   - type: "twitter"
-    url: "https://twitter.com/kmkz"
+    url: "https://twitter.com/kmkz_security"
   - type: "linkedin"
     url: "https://www.linkedin.com/in/jean-marie-bourbon"
 
 # Google Analytics (Optional, remove if you don't use it)
 google_analytics: "UA-XXXXX-Y" # Replace with your tracking ID if you have one
+google-site-verification: google61ff97d88b379ee0.html
 
 # Custom variables (optional)
 contact_email: "contact@boffsec.com"
