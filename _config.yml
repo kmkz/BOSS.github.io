@@ -1,17 +1,18 @@
 # General site settings
 title: "Bourbon Offensive Security Services (BOSS)"
 description: |
-  Specialized in  
-  Offensive & Defensive  
+  Specialized in
+  Offensive & Defensive
   Cybersecurity consulting and services
 
 url: "https://www.boffsec-services.com"
 baseurl: "/"
+
 plugins:
   - jekyll-sitemap
 
-# Theme configuration
-theme: jekyll-theme-cayman
+# NO theme — fully custom design
+# theme: jekyll-theme-cayman  ← supprimé intentionnellement
 
 encoding: "utf-8"
 
@@ -22,37 +23,32 @@ permalink: pretty
 # Author settings
 author:
   name: "Bourbon Jean-Marie"
-  email: "contact@boffsec-services.com" # Change to your actual email address
-  twitter: "kmkz_security" # Optional, if you have a Twitter handle
+  email: "contact@boffsec-services.com"
+  twitter: "kmkz_security"
 
-# Social links (optional, add more if needed)
+# Social links
 social_links:
   - type: "twitter"
     url: "https://twitter.com/kmkz_security"
   - type: "linkedin"
     url: "https://www.linkedin.com/in/jean-marie-bourbon"
 
-# Google Analytics (Optional, remove if you don't use it)
-google_analytics: "UA-XXXXX-Y" # Replace with your tracking ID if you have one
+# Google
 google-site-verification: google61ff97d88b379ee0.html
 
-# Custom variables (optional)
+# Custom variables
 contact_email: "contact@boffsec-services.com"
 contact_phone: "(+352) 661 523 211"
 company_address: "9 rue des Prés, L-9907 TROISVIERGES (LU)"
 
-# Exclude specific files from being processed by Jekyll
+# Exclude
 exclude:
   - "README.md"
   - "Gemfile"
   - "Gemfile.lock"
   - "LICENSE"
 
-# Uncomment the following if you want to use custom Sass or CSS files
 sass:
   style: compressed
   load_paths:
     - _sass
-
-# Permalink structure
-permalink: /:year/:month/:day/:title/
