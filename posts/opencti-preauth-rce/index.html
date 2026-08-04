@@ -400,17 +400,13 @@ Reliable pre-authentication RCE</code></pre>
     <p>For a SOC or Blue Team, the critical outcome is loss of trust in the CTI platform itself. Once the OpenCTI runtime is attacker-controlled, both the confidentiality of intelligence and the integrity of information consumed by analysts must be considered compromised.</p>
 
     <h2>Exploit release</h2>
-    <p>The complete chain was developed and validated during an authorized offensive security assessment under real-world conditions. The public release includes two standalone implementations only: the cleaned Bash exploit derived directly from the validated mission code and a Python implementation of the same workflow.</p>
-    <pre><code>./opencti-preauth-rce.sh \
-  -u https://opencti.example \
-  -a &lt;privileged-user-uuid&gt; \
-  -c 'id'
-
-python3 opencti-preauth-rce.py \
+    <p>The complete chain was developed and validated during an authorized offensive security assessment under real-world conditions. Following the remediation period, the final exploit is now publicly available as a single standalone Python implementation reproducing the complete workflow from administrator impersonation to reliable command execution, deterministic output retrieval and cleanup.</p>
+    <p>The public release focuses on the final validated attack path. It excludes client-specific artefacts, infrastructure details and post-exploitation components that are not required to demonstrate the vulnerability chain.</p>
+    <pre><code>python3 CVE-2026-27960-39980-OpenCTI-PreAuth-RCE.py \
   -u https://opencti.example \
   -a &lt;privileged-user-uuid&gt; \
   -c 'id'</code></pre>
-    <p><a href="https://github.com/kmkz/Exploits/tree/master/2026/CVE-2026-27960-39980-OpenCTI-PreAuth-RCE/">Download the Bash and Python full-chain exploits from kmkz/Exploits.</a></p>
+    <p><a href="https://github.com/kmkz/Exploits/blob/master/2026/CVE-2026-27960-39980-OpenCTI-PreAuth-RCE.py">View the standalone Python full-chain exploit on kmkz/Exploits.</a></p>
 
     <h2>Attention point -- Possible remediation bypass</h2>
     <div class="article-callout warning">
