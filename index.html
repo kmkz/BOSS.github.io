@@ -1,3 +1,4 @@
+```
 ---
 layout: null
 title: "BOSS — Bourbon Offensive Security Services"
@@ -174,12 +175,13 @@ nav {
 /* ── Hero title: reduced from 148px max to 108px so logo isn't dwarfed */
 .hero-title {
   font-family: var(--font-hero);
-  font-size: clamp(54px, 8vw, 108px);
+  font-size: clamp(28px, 6vw, 86px);
   font-weight: 900;
   line-height: 0.92;
   letter-spacing: -0.01em;
   color: var(--text);
-  max-width: 760px;
+  max-width: none;
+  white-space: nowrap;
   margin-bottom: 40px;
   font-synthesis: none;
 }
@@ -238,7 +240,8 @@ nav {
 .hero-stats {
   position: absolute;
   right: 48px;
-  bottom: 80px;
+  top: 50%;
+  transform: translateY(-50%);
   display: flex;
   flex-direction: column;
   gap: 28px;
@@ -565,6 +568,8 @@ section { padding: 88px 48px; border-bottom: 1px solid var(--border); }
 
 .service-item-title { font-size: 13px; font-weight: 500; color: var(--text); margin-bottom: 3px; }
 .service-item-desc { font-size: 12px; font-weight: 300; color: var(--text-muted); line-height: 1.65; }
+.service-training-link { color: var(--red); text-decoration: none; border-bottom: 1px solid rgba(192,55,42,0.35); }
+.service-training-link:hover { color: var(--text); border-bottom-color: var(--red); }
 
 /* ─── CTI ─────────────────────────────────────── */
 .cti-block {
@@ -898,6 +903,7 @@ footer {
     <li><a href="#cti">CTI</a></li>
     <li><a href="#community">Community</a></li>
     <li><a href="#publications">Publications</a></li>
+    <li><a href="/training/augmented-pentesting/">Training</a></li>
     <li><a href="#contact" class="nav-cta">Contact</a></li>
   </ul>
 </nav>
@@ -907,7 +913,7 @@ footer {
   <div class="hero-bg"></div>
   <p class="hero-eyebrow">Bourbon Offensive Security Services &mdash; Luxembourg</p>
   <h1 class="hero-title">
-    Offense<br><span class="red">4</span><br>Defense.
+    Offense <span class="red">4</span> Defense.
   </h1>
   <p class="hero-sub">
     Most security assessments validate compliance.<br>
@@ -1061,6 +1067,7 @@ footer {
           <li class="service-item"><span class="service-dot consulting-dot"></span><div><p class="service-item-title">NIS2 Implementation and Governance</p><p class="service-item-desc">Security policy definition, NIS2 support, gap analysis and governance advisory rooted in technical reality rather than checkbox compliance.</p></div></li>
           <li class="service-item"><span class="service-dot consulting-dot"></span><div><p class="service-item-title">Supply-Chain Risk (MITRE SOT)</p><p class="service-item-desc">Using the MITRE System of Trust framework to identify supply-chain controls for SMEs and their downstream clients.</p></div></li>
           <li class="service-item"><span class="service-dot consulting-dot"></span><div><p class="service-item-title">Training and Awareness</p><p class="service-item-desc">Technical and executive team training: offensive security awareness, threat actor behavior sessions and hands-on workshops.</p></div></li>
+          <li class="service-item"><span class="service-dot consulting-dot"></span><div><p class="service-item-title">Advanced Offensive Security Training</p><p class="service-item-desc">Augmented Pentesting: an advanced two-day, hands-on course covering LLM-assisted 1-day vulnerability research and exploitation. Live remote, 25-26 February 2027. <a class="service-training-link" href="/training/augmented-pentesting/">Course details and pre-registration &rarr;</a></p></div></li>
         </ul>
       </div>
     </div>
@@ -1326,3 +1333,4 @@ document.querySelectorAll(".reveal").forEach(el => observer.observe(el));
 </script>
 </body>
 </html>
+```
