@@ -1,14 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Penser comme un attaquant: a field-experience book on offensive security by Jean-Marie Bourbon, published by Éditions ENI in November 2026. In French, 261 pages.">
-<meta property="og:title" content="Penser comme un attaquant | Book | BOSS">
-<meta property="og:description" content="Penser comme un attaquant: a field-experience book on offensive security by Jean-Marie Bourbon, published by Éditions ENI in November 2026. In French, 261 pages.">
+<meta name="description" content="Penser comme un attaquant : un livre de terrain sur la cybersécurité offensive, par Jean-Marie Bourbon, publié aux Éditions ENI en novembre 2026. 261 pages.">
+<meta property="og:title" content="Penser comme un attaquant | Livre | BOSS">
+<meta property="og:description" content="Penser comme un attaquant : un livre de terrain sur la cybersécurité offensive, par Jean-Marie Bourbon, publié aux Éditions ENI en novembre 2026. 261 pages.">
 <meta property="og:type" content="book">
+<meta property="og:locale" content="fr_FR">
 <meta property="og:url" content="https://boffsec-services.com/book/">
-<title>Penser comme un attaquant, book by Jean-Marie Bourbon | BOSS</title>
+<meta property="og:image" content="https://boffsec-services.com/og-book.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Penser comme un attaquant, livre de Jean-Marie Bourbon, Éditions ENI">
+<meta name="twitter:card" content="summary_large_image">
+<title>Penser comme un attaquant, livre de Jean-Marie Bourbon | BOSS</title>
 <link rel="canonical" href="https://boffsec-services.com/book/">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -158,7 +164,7 @@ footer {
 .footer-meta { font-size: 11px; font-weight: 300; color: var(--text-dim); }
 .footer-motto { font-family: var(--font-mono); font-size: 10px; font-weight: 300; letter-spacing: 0.16em; color: var(--text-dim); text-transform: uppercase; }
 
-/* Links */
+/* Liens */
 .links { display: flex; flex-wrap: wrap; gap: 12px; }
 .cta-link { display: inline-block; padding: 12px 20px; border: 1px solid var(--border-light); border-radius: 2px; color: var(--text); text-decoration: none; font-size: 14px; font-weight: 500; transition: background 0.2s, border-color 0.2s; }
 .cta-link:hover { background: rgba(255,255,255,0.06); border-color: rgba(255,255,255,0.22); color: #fff; }
@@ -166,6 +172,20 @@ footer {
 .action-note a:hover { color: var(--text); }
 .cta-link:focus-visible, .action-note a:focus-visible, .content a:focus-visible, .page-back:focus-visible { outline: 2px solid var(--text); outline-offset: 3px; }
 .section-heading { font-family: var(--font-hero); font-size: clamp(30px, 3.8vw, 50px); font-weight: 900; line-height: 1.05; letter-spacing: -0.02em; margin: 12px 0 28px; font-synthesis: none; }
+
+/* Couverture */
+.hero-grid { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 64px; align-items: start; }
+.cover { margin: 0; }
+.cover img { display: block; width: 100%; height: auto; background: var(--surface); border: 1px solid var(--border-light); box-shadow: 0 24px 60px rgba(0,0,0,0.55); }
+@media (min-width: 851px) {
+  .hero-grid .facts { grid-template-columns: 1fr 1fr; }
+  .hero-grid .fact:nth-child(2n) { border-right: 0; }
+  .hero-grid .fact:nth-child(-n+2) { border-bottom: 1px solid var(--border-light); }
+}
+@media (max-width: 960px) {
+  .hero-grid { grid-template-columns: 1fr; gap: 36px; }
+  .cover { order: -1; max-width: 200px; }
+}
 
 /* Responsive */
 @media (max-width: 1080px) {
@@ -195,7 +215,7 @@ footer {
 {
   "@context": "https://schema.org",
   "@type": "Book",
-  "name": "Cybersécurité offensive, test d'intrusion et exploitation de vulnérabilités : Penser comme un attaquant",
+  "name": "Cybersécurité offensive, test d’intrusion et exploitation de vulnérabilités : Penser comme un attaquant",
   "alternateName": "Penser comme un attaquant",
   "author": {
     "@type": "Person",
@@ -211,6 +231,7 @@ footer {
   "numberOfPages": 261,
   "isbn": "9782409055461",
   "bookFormat": "https://schema.org/Paperback",
+  "image": "https://boffsec-services.com/book/couverture.webp",
   "url": "https://boffsec-services.com/book/",
   "sameAs": [
     "https://www.editions-eni.fr/livre/cybersecurite-offensive-test-d-intrusion-et-exploitation-de-vulnerabilites-penser-comme-un-attaquant-9782409055461"
@@ -241,67 +262,75 @@ footer {
 <main class="page-wrap">
   <a href="/" class="page-back">
     <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M10 6H2M5 2L1 6l4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-    Back to BOSS
+    Retour &agrave; BOSS
   </a>
 
   <div class="hero">
-    <div class="eyebrow">Book, Éditions ENI</div>
-    <h1 lang="fr">Penser comme un attaquant<span style="color:var(--red)">.</span></h1>
-    <div class="subtitle" lang="fr">Cybersécurité offensive, test d'intrusion et exploitation de vulnérabilités</div>
-    <p class="lead">A book on how attacks are actually carried out, beyond theoretical methodologies and oversimplified models. It draws on years of field experience to show that a compromise is built from context, weaknesses and constant adaptation, not from a single tool or vulnerability. The book is written in French.</p>
+    <div class="hero-grid">
+      <div>
+        <div class="eyebrow">Livre, &Eacute;ditions ENI</div>
+        <h1>Penser comme un attaquant<span style="color:var(--red)">.</span></h1>
+        <div class="subtitle">Cybers&eacute;curit&eacute; offensive, test d&rsquo;intrusion et exploitation de vuln&eacute;rabilit&eacute;s</div>
+        <p class="lead">Un livre sur la fa&ccedil;on dont les attaques sont r&eacute;ellement men&eacute;es, au-del&agrave; des m&eacute;thodologies th&eacute;oriques et des mod&egrave;les simplistes. Fond&eacute; sur des ann&eacute;es de terrain, il montre qu&rsquo;une compromission se construit &agrave; partir d&rsquo;un contexte, de faiblesses et d&rsquo;une adaptation permanente, et non d&rsquo;un outil ou d&rsquo;une vuln&eacute;rabilit&eacute; isol&eacute;s.</p>
 
-    <div class="facts">
-      <div class="fact"><small>Publisher</small><strong>Éditions ENI</strong></div>
-      <div class="fact"><small>Published</small><strong>November 2026</strong></div>
-      <div class="fact"><small>Format</small><strong>Paperback, 261 pages</strong></div>
-      <div class="fact"><small>Language</small><strong>French</strong></div>
-    </div>
+        <div class="facts">
+          <div class="fact"><small>&Eacute;diteur</small><strong>&Eacute;ditions ENI</strong></div>
+          <div class="fact"><small>Parution</small><strong>Novembre 2026</strong></div>
+          <div class="fact"><small>Format</small><strong>Broch&eacute;, 261 pages</strong></div>
+          <div class="fact"><small>Niveau</small><strong>Expert</strong></div>
+        </div>
 
-    <div class="links">
-      <a class="cta-link" href="https://www.editions-eni.fr/livre/cybersecurite-offensive-test-d-intrusion-et-exploitation-de-vulnerabilites-penser-comme-un-attaquant-9782409055461/introduction" target="_blank" rel="noopener">Read the online extracts</a>
-      <a class="cta-link" href="https://www.editions-eni.fr/livre/cybersecurite-offensive-test-d-intrusion-et-exploitation-de-vulnerabilites-penser-comme-un-attaquant-9782409055461" target="_blank" rel="noopener">View on Éditions ENI</a>
+        <div class="links">
+          <a class="cta-link" href="https://www.editions-eni.fr/livre/cybersecurite-offensive-test-d-intrusion-et-exploitation-de-vulnerabilites-penser-comme-un-attaquant-9782409055461/introduction" target="_blank" rel="noopener">Lire les extraits en ligne</a>
+          <a class="cta-link" href="https://www.editions-eni.fr/livre/cybersecurite-offensive-test-d-intrusion-et-exploitation-de-vulnerabilites-penser-comme-un-attaquant-9782409055461" target="_blank" rel="noopener">Voir sur &Eacute;ditions ENI</a>
+        </div>
+        <span class="action-note">Des extraits en ligne gratuits et un <a href="https://www.editions-eni.fr/espace-professionnels/livre/cybersecurite-offensive-test-d-intrusion-et-exploitation-de-vulnerabilites-penser-comme-un-attaquant-9782409055461/extrait-du-livre.pdf" target="_blank" rel="noopener">aper&ccedil;u PDF de la version papier</a> sont disponibles sur le site de l&rsquo;&eacute;diteur.</span>
+      </div>
+
+      <figure class="cover">
+        <img src="/book/couverture.webp" alt="Couverture du livre Penser comme un attaquant, de Jean-Marie Bourbon, &Eacute;ditions ENI" fetchpriority="high" decoding="async" onerror="this.closest('.cover').style.display='none'">
+      </figure>
     </div>
-    <span class="action-note">Free online extracts and a <a href="https://www.editions-eni.fr/espace-professionnels/livre/cybersecurite-offensive-test-d-intrusion-et-exploitation-de-vulnerabilites-penser-comme-un-attaquant-9782409055461/extrait-du-livre.pdf" target="_blank" rel="noopener">PDF preview of the print edition</a> are available on the publisher's site.</span>
   </div>
 
   <section class="training-section">
     <div class="section-grid">
       <div>
-        <div class="eyebrow">About the book</div>
-        <h2>Not another methodology.</h2>
+        <div class="eyebrow">&Agrave; propos du livre</div>
+        <h2>Pas une &eacute;ni&egrave;me m&eacute;thodologie.</h2>
       </div>
       <div class="content">
-        <p>The starting point is simple: an attacker does not follow a methodology, they adapt. The book does not add one more pentest process or a list of techniques that will age quickly. It offers a reading grid drawn from the field, meant to build a way of thinking that structured curricula rarely teach.</p>
-        <p>It covers the main offensive approaches, from penetration tests to Threat Led and Red Team exercises, then the preparation of an engagement: qualification, organization of the work, evidence collection and a report that can be acted on.</p>
-        <p>Recent vulnerabilities, several of them discovered by the author, are followed step by step from identification to proof of concept. In an era of automation and AI, the ability to reason like an attacker is where automated approaches reach their limits.</p>
+        <p>Le point de d&eacute;part est simple&nbsp;: un attaquant ne suit pas de m&eacute;thodologie, il s&rsquo;adapte. Le livre n&rsquo;ajoute pas un processus de pentest de plus ni une liste de techniques qui vieilliront vite. Il propose une grille de lecture issue du terrain, pour construire un &eacute;tat d&rsquo;esprit que les cursus structur&eacute;s enseignent rarement.</p>
+        <p>Il couvre les principales approches offensives, des tests d&rsquo;intrusion aux exercices Threat Led et Red Team, puis la pr&eacute;paration d&rsquo;une mission&nbsp;: qualification, organisation du travail, collecte d&rsquo;&eacute;vidences et restitution exploitable.</p>
+        <p>Des vuln&eacute;rabilit&eacute;s r&eacute;centes, dont plusieurs d&eacute;couvertes par l&rsquo;auteur, sont suivies pas &agrave; pas, de l&rsquo;identification jusqu&rsquo;&agrave; la preuve de concept. &Agrave; l&rsquo;heure de l&rsquo;automatisation et de l&rsquo;IA, la capacit&eacute; &agrave; raisonner comme un attaquant est l&agrave; o&ugrave; les approches automatis&eacute;es atteignent leurs limites.</p>
         <div class="notice">
-          <p lang="fr">&laquo;&nbsp;L'attaquant ne suit pas de m&eacute;thodologie, il s'adapte.&nbsp;&raquo;</p>
-          <p class="small" style="margin-top:8px">Jean-Marie Bourbon, from the author's foreword</p>
+          <p>&laquo;&nbsp;L&rsquo;attaquant ne suit pas de m&eacute;thodologie, il s&rsquo;adapte.&nbsp;&raquo;</p>
+          <p class="small" style="margin-top:8px">Jean-Marie Bourbon, le mot de l&rsquo;auteur</p>
         </div>
       </div>
     </div>
   </section>
 
   <section class="training-section">
-    <div class="eyebrow">Contents</div>
-    <h2 class="section-heading">What the book covers</h2>
+    <div class="eyebrow">Sommaire</div>
+    <h2 class="section-heading">Ce que couvre le livre</h2>
     <div class="split">
       <article class="day">
-        <small>Method and observation</small>
-        <h3>Framing and reconnaissance</h3>
-        <div class="module"><b>Offensive approaches</b><p>Black, grey and white box tests, assume breach, TLPT, Red Team and TIBER exercises, and vulnerability research.</p></div>
-        <div class="module"><b>Qualification</b><p>The pentester's advisory role, threat intelligence and the attack surface.</p></div>
-        <div class="module"><b>Evidence</b><p>Dedicated workspaces, note-taking, screenshots and other proof.</p></div>
-        <div class="module"><b>Reconnaissance</b><p>OSINT and active enumeration, with evasion approaches ranging from discreet to noisy.</p></div>
+        <small>M&eacute;thode et observation</small>
+        <h3>Cadrage et reconnaissance</h3>
+        <div class="module"><b>Approches offensives</b><p>Tests bo&icirc;te noire, grise et blanche, assume breach, TLPT, exercices Red Team et TIBER, recherche de vuln&eacute;rabilit&eacute;s.</p></div>
+        <div class="module"><b>Qualification</b><p>Le r&ocirc;le de conseil du pentester, la threat intelligence et la surface d&rsquo;attaque.</p></div>
+        <div class="module"><b>&Eacute;vidences</b><p>Espaces de travail d&eacute;di&eacute;s, prise de notes, captures d&rsquo;&eacute;cran et autres preuves.</p></div>
+        <div class="module"><b>Reconnaissance</b><p>OSINT et &eacute;num&eacute;ration active, avec des techniques d&rsquo;&eacute;vasion allant de la discr&eacute;tion &agrave; la submersion.</p></div>
       </article>
       <article class="day">
-        <small>Attack and restitution</small>
-        <h3>Exploitation and reporting</h3>
-        <div class="module"><b>Attack surface</b><p>Internal and external exposure, the main attack vectors, understanding a vulnerability and deciding how to prioritize.</p></div>
-        <div class="module"><b>Initial access</b><p>Known CVEs, unknown vulnerabilities, exploitation chains, offensive infrastructure and C2, AV and EDR bypass, physical intrusion.</p></div>
-        <div class="module"><b>Post-exploitation</b><p>Persistence, discovery, Active Directory, restricted Citrix environments, C2 beaconing, pivoting, lateral movement and cleanup.</p></div>
-        <div class="module"><b>Risk assessment</b><p>MITRE ATT&amp;CK, CVSS, EPSS and kill-chain analysis.</p></div>
-        <div class="module"><b>Reporting</b><p>Structuring the report, executive summary, technical narrative and remediation.</p></div>
+        <small>Attaque et restitution</small>
+        <h3>Exploitation et rapport</h3>
+        <div class="module"><b>Surface d&rsquo;attaque</b><p>Exposition interne et externe, principaux vecteurs d&rsquo;attaque, compr&eacute;hension d&rsquo;une vuln&eacute;rabilit&eacute; et priorisation.</p></div>
+        <div class="module"><b>Acc&egrave;s initial</b><p>CVE connues, vuln&eacute;rabilit&eacute;s inconnues, cha&icirc;nes d&rsquo;exploitation, infrastructure offensive et C2, contournement d&rsquo;antivirus et d&rsquo;EDR, intrusion physique.</p></div>
+        <div class="module"><b>Post-exploitation</b><p>Persistance, d&eacute;couverte, Active Directory, environnements Citrix restreints, beaconing C2, pivoting, mouvements lat&eacute;raux et nettoyage.</p></div>
+        <div class="module"><b>&Eacute;valuation des risques</b><p>MITRE ATT&amp;CK, CVSS, EPSS et analyse de kill-chain.</p></div>
+        <div class="module"><b>Rapport</b><p>Structure du document, r&eacute;sum&eacute; ex&eacute;cutif, r&eacute;cit technique et rem&eacute;diations.</p></div>
       </article>
     </div>
   </section>
@@ -309,11 +338,11 @@ footer {
   <section class="training-section">
     <div class="section-grid">
       <div>
-        <div class="eyebrow">Audience</div>
-        <h2>Who it is for.</h2>
+        <div class="eyebrow">Public</div>
+        <h2>&Agrave; qui s&rsquo;adresse-t-il&nbsp;?</h2>
       </div>
       <div class="content">
-        <p>The book is written for people who want to move toward offensive security, for practitioners who want to go beyond the academic framework, and for defenders who want to understand attack mechanisms in concrete terms. The publisher rates the level as Expert.</p>
+        <p>Le livre s&rsquo;adresse aux personnes qui souhaitent s&rsquo;orienter vers la s&eacute;curit&eacute; offensive, aux professionnels qui veulent sortir du cadre acad&eacute;mique et aux d&eacute;fenseurs qui cherchent &agrave; comprendre concr&egrave;tement les m&eacute;canismes d&rsquo;attaque. L&rsquo;&eacute;diteur le classe au niveau Expert.</p>
       </div>
     </div>
   </section>
@@ -321,13 +350,13 @@ footer {
   <section class="training-section">
     <div class="section-grid">
       <div>
-        <div class="eyebrow">Author</div>
-        <h2>From real engagements.</h2>
+        <div class="eyebrow">Auteur</div>
+        <h2>Issu du terrain.</h2>
       </div>
       <div class="content">
         <h3>Jean-Marie Bourbon</h3>
-        <p>Founder of Bourbon Offensive Security Services (BOSS), Luxembourg. Offensive security practitioner and vulnerability researcher with 18 years of field experience, OSCP and OSCE certified.</p>
-        <p>More of the author's research is published on this site: <a href="/posts/libheif-iref-dimg-heap-grooming/">libheif heap grooming and 1-day RCE</a> and <a href="/posts/opencti-preauth-rce/">a pre-auth RCE chain in OpenCTI</a>.</p>
+        <p>Fondateur de Bourbon Offensive Security Services (BOSS), Luxembourg. Praticien de la s&eacute;curit&eacute; offensive et chercheur en vuln&eacute;rabilit&eacute;s, avec 18 ans d&rsquo;exp&eacute;rience terrain, certifi&eacute; OSCP et OSCE.</p>
+        <p>D&rsquo;autres travaux de l&rsquo;auteur sont publi&eacute;s sur ce site (en anglais)&nbsp;: <a href="/posts/libheif-iref-dimg-heap-grooming/">grooming de heap dans libheif et RCE 1-day</a> et <a href="/posts/opencti-preauth-rce/">une cha&icirc;ne de RCE pr&eacute;-authentification dans OpenCTI</a>.</p>
       </div>
     </div>
   </section>
@@ -335,15 +364,15 @@ footer {
   <section class="training-section" id="edition">
     <div class="section-grid">
       <div>
-        <div class="eyebrow">Edition</div>
-        <h2>Where to find it.</h2>
+        <div class="eyebrow">&Eacute;dition</div>
+        <h2>O&ugrave; le trouver.</h2>
       </div>
       <div class="content">
         <ul>
-          <li>Print: paperback, 17 x 21 cm, 261 pages. ISBN 978-2-409-05546-1.</li>
-          <li>Online (HTML): ISBN 978-2-409-05547-8.</li>
+          <li>Papier&nbsp;: broch&eacute;, 17 x 21 cm, 261 pages. ISBN 978-2-409-05546-1.</li>
+          <li>En ligne (HTML)&nbsp;: ISBN 978-2-409-05547-8.</li>
         </ul>
-        <p>Published by Éditions ENI in November 2026. The print and online editions can be ordered on <a href="https://www.editions-eni.fr/livre/cybersecurite-offensive-test-d-intrusion-et-exploitation-de-vulnerabilites-penser-comme-un-attaquant-9782409055461" target="_blank" rel="noopener">the publisher's website</a>.</p>
+        <p>Publi&eacute; par les &Eacute;ditions ENI en novembre 2026. Les &eacute;ditions papier et en ligne se commandent sur <a href="https://www.editions-eni.fr/livre/cybersecurite-offensive-test-d-intrusion-et-exploitation-de-vulnerabilites-penser-comme-un-attaquant-9782409055461" target="_blank" rel="noopener">le site de l&rsquo;&eacute;diteur</a>.</p>
       </div>
     </div>
   </section>
